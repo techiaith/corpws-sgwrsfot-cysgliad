@@ -1,0 +1,1902 @@
+Helo, rydym yn cael trafferth gyda Cysill a'r fersiwn diweddaraf o Office 365 Word.
+Mae'r toolbar yn ymddangos yn gywir ond ni yw yn copio testun i raglen cysill os nad yw'r cursor ar ddechrau y testun.
+Ar ol iddo gywiro ni yw wedyn yn copio'r testun cywir yn nol i word
+Hi Robin da chi ddim yn defnyddio yr word addin ???
+Ie, hwnw ydi'r broblem.
+Mae'r addin/tool bar yn dangos, ond ni oes modd ei ddefnyddio yn iawn
+Os gen chi 5 munud i dangos fi ar teams ??
+Wnai i anfon gwahoddiad i chi jyst anfon du cyferiad ebost
+Oes, ebost yn ffein
+Wedi anfon gwahoddiad teams i chi ac dwi yn yr cyfarfod pan d`a chi yn barod
+Bore da.
+Dwi wedi lawrlwytho Cysgliad ar fy Macbook ond dydy'r ap eu hunain ddim yn agor.
+Mae sgrin 'pop-up' yn ymddangos wrth imi drio eu hagor yn dweud bod angen iddynt gael eu diweddaru er mwyn iddynt weithio ar yr iOS diweddaraf.
+Fyddwch chi'n diweddaru Cysgliad yn fuan
+Diolch
+Bore da - Mae'n flin gen i ond dyw Cysill ar gyfer Mac heb ei ddiweddaru ers ryw 2008, dwi'n credu, a does dim cynlluniau i'w ddiweddaru yn fuan.
+Fodd bynnag, mae modd cael at fersiwn arlein o Cysill ( https://www.cysgliad.com/cysill/arlein/) a hefyd y geiriaduron sydd o fewn Cysgliad (http://geiriadur.bangor.ac.uk/ http://termau.cymru/)Diolch yn fawr am eich Atem.
+Croeso - mwynhewch eich diwrnod :)
+Bore da - Rwyf yn trio mynd i gyfrif Cwmni Cocos er mwyn llawrlwytho Cysgliad i beiriant newydd ond yn cael trafferth gyda'r manylion sydd wedi cael eu gadael i fi gan y person ddaru agor y cyfrif yn y cychwyn
+Y manylion sydd gennyf ywebost - 123@456.com 
+rhif y drwydded 259346.
+Mae neges yn ymddangos fod yr ebost yn anghywir er mwyn i fi newid y password.
+Diolch.
+Hi Craig
+Emma sydd yma
+Os gen chi 5 mins i neidio ar cyfarfod teams hefo fo ??
+fi
+Da chi yna ???
+@Chris wedi ebostio chi ;)
+Rydw i wedi llwytho Cysill i fy nghyfrifiadur, ond dydy hi ddim yn agor
+mae cysill wedi diflannu o far offer Adolygu Word - wedi trio yr holl gynghorion ar y wefan.
+Bore Dda Luned da chi wedi drio edrych yn settings > apps > ac weld os mae yr rhaglen Cysgliad o fewn Microsoft Office Yna ???
+Os gennoch chi amser rwan dwi yn medru anfon gwahoddiad tams i chi i drwsio yr problem ???
+Bore da - diolch am atbe mor sydyn.
+Yn anffodus does gen i didm cyfleuster teams ar y cyfrifiadur hwn,
+Lle ddoi o hyd i settings ar word o dan File?
+ok Beth da chi eisiau gwnued ydy yr isod
+1) Agor Settings Windows (Click on Windows start bar ac wedyn yr cog Settings)
+2)Click ar apps and Programs yn yr settings
+3)Dweud wrth fi pa rhaglenni cysgliad sydd yna - dylai chi cael 3
+3a)Cysgliad
+3b)Cysgliad o fewn Office
+3c)Dewin Cysgliad
+Os modd i chi cadrhau bod y 3 rhaglen yna wedi gosod ar du cyfridadur
+ydyn mae;r tri yno - er mae gen i ddau Cysgliad
+Wych beth da chi angen gwnued rwan ydy agor word
+2)Clickio ar Ffeil ac wedyn Options
+3)Clickio ar add in's
+ac weld os mae cysgliad o fewn Microsoft Office yn dangos yn yr box add in's ac ydy o dan inactive wneu active
+4)Hefyd sut oedd chi wedi llawrlwytho cysgliad ???
+Dewin neu hen CD
+Os modd i chi anfon llunsgrin o sgrin Word addins
+mae'r cyfarwyddiadau yn gymraeg r y rhaglen gen i ond mae o dan y rhai sydd wedi analluogi
+Edrych ar yr tudalen yma -  https://www.cysgliad.com/cy/cymorth/ ac mae on rhoi yr solution i chi - da chi angen clickio ar Manage Addin's ac wedyn gwnued yn siwr bod na tick wrth yml Cysgliad o fewn office
+Ok da chi angen clickio ar MYND
+ie dwi wedi gnweud hynny sawl tro ond dim lwc
+Dwi angen cael golwyg ar du perient dros teams/skype unrhyw rhaglen sydd yn medru gwnued screen share i drwsio mae gen i amser heddiw ond dwi i ffwrd am mis ar ol heddiw - Dwi jyst angen yr screen share ddim yr sain na llun ondOs gennoch chi amser i drwsio heddiw ac oes gen chi hawliau admin ar yr cyfridadur ?
+Hefyd os gennoch chi trwydded Enterprise neu un rhad ac am ddim (i.e free license)
+mae gen i hawliau admin hynny ydi fy nghyfrifiadur i ydi o.
+amse ryn fyr yn andoffuds achos mae gne i dedleins erbyn amse rcinio!
+fyddai newid template word wedi creu hyn?
+Ok Oes modd i chi anfon ebost ar cysgliad@bangor.ac.uk ac bydd rhywun arall yn medru helpu ???
+Os da chi wedi llwytho cysgliad o hen CD bydd na document templates ac bydd o ddim yn weithio ond os da chi wedi llwytho cysgliad i periant fresh o wefan cysgliad mae o defnyddio add-ins so mae document templeates ddim yn effithio fo - mae o'n derbynnu am sut da chi wedi llwytho cysgliad ac os oedd cysgliad ar yr perient o blean
+ok dwi'n meddwl mod in deall - er mae o weid gweithio yn iawn am flwyddyn a hanner, so wn i didm.
+Efallai bod rhywun wedi newid template heb ofyn i mi!!
+Bydd fyddai i yn gwenud ydy dad -lywtho Cysgliad ac proffi bod na ddim ffeilau .dot yn yr folder C:\Users\&lt;Username>\AppData>Microsoft>Word>Startup ac wedyn byddaf yn llawrlytho yr dewin o  https://www.cysgliad.com/cy/trwydded-am-ddim/ ac rhedeg yr installer ac drio eto
+ie mae hwnna;n swnio'n syniad da - diolch i ti am dy help heddiw.
+Gwerthfawrogi lot!
+Mi wna i drio dadlwytho, ac aillwytho a gweld be ddaw a weydn cysylltu gyda'r ebost roiest ti os oes problem o hyd.
+Diolch yn fawr a mwynha dy amser i ffwrdd.
+Mae Cysill yn crasho'r cyfrifiadur pob tro rwy'n ceisio'i ddefnyddio o fewn Word.
+Hi Daniel Yma
+HI Chesney ano
+Os gen chi mwy o manyllion fel OS ac pa version o Word da chi yn defnyddio ???
+HI James ;)
+word version informaito
+Agh, sori, teipio ar y sgrin anghywir!
+Na'i drio chwilio nawr!
+Dwi yn swyli bod chi yn defnyddio cyferiad ebost bob598743229@hotmail.com- Ydy yr Periant yn perthyn i Creision Aber neu desktop /laptop personnal ???
+Gluniadur gwaith yw hi (Hofrenyddion Betws), ond rwy'n gweithio o adre
+Hefyd os gen chi 2 sgrin ??
+ac dwi yn meddwl bydd rhaid i chi cystyllu hefo Prifysgol Abertawe ???
+Os gen chi hawliau admin ar yr laptop ???
+Ac os os dwi yn medru ffonio chi ar teams rwan os da chi yn rhydd ???
+Da chi eisiau fi anfon Gwahoddiad teams i chi rwan ???
+Oes, mae 2 sgrin yn gweithio gen i, ond dwi'n cael problemau jets efo un hefyd.
+Ie plis
+Dwi yn yr Cyfarfod rwan ac wedi anfon Gwahoddiad - Dyma'r dolen i teams - Meeting ID 89c3rt6
+Wedi Drwsio - Rhoi wybod os da chi angen unrhyw peth arall cofion Phil :)
+Ffab, diolch o galon Stu ano!
+Noswaith dda!
+Wnes i ebostio heddiw yn gofyn sut i lawrlwytho cysgliad at fy ngliniadur.
+Dwi wedi llwyddo i wneud hynny bellach, ond dydi 'Gwirio Dogfen' ddim yn gweithio pan dwi'n gwasgu arno yn Word - pan dwi'n ei ddewis, does dim byd yn ymddangos.
+A pan dwi'n dewis yr app o'r search bar, yn ceisio teipio rhywbeth i mewn ac yn dewis 'Gwirio Dogfen' mae'n nodi fod cysill wedi gorffen gwirio'r ddogfen, er mod i wedi nodi camgymeriadau arnyn nhw'n bwrpasol.
+Ond mae 'Cysgeir' a 'Thesawrws' yn gweithio'n iawn
+Byddwn i'n gwerthfawrogi unrhyw gymorth, gan taw gwirio dogfen dwi eisiau yn fwy na dim byd arall
+Diolch.
+Oes modd cael Cysgliad trwy Google docs?
+Dwi newydd drio drwy ddefnyddio 'Add-ons' ond 'dyw e ddim yn gallu ffeindio'r app!
+Prynhawn da - rydyn ni'n gobeithio cael add-on o'r fath, ond dyw e ddim ar gael ar hyn o bryd yn anffodus, sori
+iawn diolch
+Dwi eisiau cofrestru ar gyfer tablau berfau Gweiadur.
+Dwi ddim yn siwr pwy sydd yn rheoli'r Gafle gweiadur
+Nid ni yn anffodus - ydych chi wedi ceisio cysylltu a nhw trwy'r manylion ar eu gwefan
+Diolch yn fawr.
+Croeso :)
+Diolch yn fawr am y cymorth par.
+eiconau'n diflannu o Word - gwybodaeth werthfawr iawn - ac yn gweithio'n syth.
+Helo, ydi'r fersiwn o Cysill sydd yn gallu cael ei osod dal yn cael ei gefnogi ganddoch?
+Helo - sori am yr oedi wrth ymateb.
+Rydyn ni'n cefnogi'r fersiwn sydd ar gael i'w lawrlwytho o fan hyn ar hyn o bryd https://www.cysgliad.com/cy/trwydded-am-ddim/
+Helo, nes i anfon ebost gyda cwestiwn am trydded am Cysgliad mis diwethaf, ond dwi ddim 'di cael ateb.
+Jyst eisiau gwybod faint bydd o.
+Hi Thwm - Frank sydd yma da chi wedi ebostio cysgliad@bangor.ac.uk ??
+Dyna fo
+Or CACV ???
+Mae ein rheolwr Sywddfa Hari yn ateb pethau fel rhain - wnai i rhoi push i hi Fel arfer os mae na mond 15 pobl sydd yn defnyddio fo mae Hari yn medru rhoi pris dda i chi (mae on cost blyddynol ) Ac ydy CACV yn charity ??
+Diolch
+Ydym - elusen rhif 89/4553lk os chi'n agen.
+*angen
+Ddim probs Shadwel wnai i ateb i du ebost yn rhoi prod i Beca ;)
+Diolch yn fawr Blod 
+Hwyl.
+Helo, dwi newy' lawrlwytho cysgeir ac wedi dilyn y cyfarwyddiadau ar gyfer ei gael ar Word - ond nid ydy'n ymddangos ar hyd y colofn sydd yn rhedeg ar hyd top y dudalen
+Bore da - felly dyw'r eiconau ddim yn ymddangos yn y tab Adolygu/Review?
+Nadi - allai'm eu gweld yn nunlla
+Iawn, allech chi agor y Dewin eto plis?
+(mi ddylai fod eicon ar eich bwrdd gwaith i wneud hyn)
+Sori dwi'm yn deall, agor Word?
+Nage, sori.
+Ar eich bwrdd gwaith (h.y
+desktop) mi ddylech weld eicon fel hyn:
+Diolch - dwi wedi'i agor o a mae 'na 3 tick wedi'i ymddangos
+Y tri yma?:
+Ia
+Gwych - allech chi ailddechrau Word plis?
+Ac yna edrych yn y tab adolygu/review eto?
+Mauo yna wan!
+Diolch yn fawr :)
+Gwych
+Croeso :)
+methu lawrlwytho Cysgliad
+Bore da - ydych chi'n ceisio lawrlwytho o fan hyn https://www.cysgliad.com/cy/trwydded-am-ddim/
+yndw
+Diolch - newydd geisio o fan hyn ac mae i'w weld yn gweithio.
+Oes yna neges wall yn ymddangos?
+nagoes
+Iawn, a allwch chi clicio ar y ddolen yma ac yna cawn weld beth sy'n digwydd https://www.cysgliad.com/dewin/DewinCysgliad.application
+files corrupt yn dangos
+dim ymateb yn dangos
+A, dyna biti.
+Mae'n bosib mai rhywbeth ar eich cyfrifiadur sy'n achosi hyn, hynny yw meddalwedd megis meddalwedd gwrth firws.
+Efallai byddai defnyddio porwr arall i lwytho'r feddalwedd i lawr yn gwneud y tro, ond mae hyn yn anhebygol o helpu
+be rwan🤔
+Wel, heblaw am geisio gyda porwr arall, efallai byddai newid rhyw osodiad ar eich meddalwedd gwrth firws neu feddalwedd wal dân.
+Yn anffodus bydd rhaid cael rhywun sy'n deall y pecynnau yna i wneud hyn (gan eu bod yna i'ch gwarchod chi).
+Yn y cyfamser mae cysill ar lein ar gael i chi ei ddefnyddio wrth gwrs https://www.cysgliad.com/cysill/arlein/
+diolch, gofyn ir mab diolch  hwyl
+Diolch - hwyl am y tro
+Helo tybed oes cysgliad ar gyfer MAC?
+Helo!
+Mae'n flin gen i, ond na yw'r ateb ar hyn o bryd (ond gewch chi ddefnyddio Cysill ar lein a geiriaduron Bangor trwy'ch porwr)
+Hoffech chi'r dolenni at yr adnoddau ar-lein?
+Ymwybodol o'r rheiny diolch yn fawr.
+Oes na fwriad gennych i ddatblygu meddalwedd o'r fath?
+Diolch am eich ymateb sydyn!
+Croeso.
+Does dim bwriad gennym ar hyn o bryd (mae'n dibynnol ar rywun yn ein ariannu).
+Ond mae'n werth cadw golwg ar ein ffrwd Trydar jest rhag ofn
+er enghraifft roedden ni wedi trydar hyn ym mis RhagfyrHefyd yn fuan yn y Flwyddyn Newydd – Cysill fel ychwanegyn Google Docs a Word Online.
+Mwy i ddod!
+Gwych diolch!
+Mi fyddai'n wych os fysa'r feddalwedd yn datblygu i fod fel Grammarly – sicr ar y trywydd cywir!
+Diolch :) Falch bo chi'n cytuno :)
+Yn syml, sut alla i gynnwys Cysill a'r Thesawrws ar fy laptop Windows 10.
+Dwi weithie yn sgwennu llythyr neu gneyd rhyw sylwade a byddai gallu gwirio'r testun yn help mawr i mi.
+Diolch Anna Jones( dwi'n hollol dwp a phetrusgar efo'r dechnoleg yma.
+Prynhawn da, mae Cysgliad ar gael i'w lawrlwytho o fan hyn https://www.cysgliad.com/cy/trwydded-am-ddim/
+I gyd sy'n rhaid gwneud yw dewis y botwm 'lawrlwytho', agor y ffeil yna rhedeg y Dewin sy'n ymddangos
+Mor syml a hynny, ond bo 'admin rights' llawn gennych ar y laptop :)
+Diolch.
+Drwy gyfuniad o lwc mul a'ch cyngor chi, mae'n ymddangos fy mod wedi llwyddo i lawrlwytho Cysgliad!
+Sut mae ei ddefnyddio i gywiro testun?
+Ymddiheuriade am ofyn cwestiwn mor elfennol.
+Ac yn ail, pa "search engine" fasach chi'n awgrymu i ganfod gwybodaeth am bethe Cymraeg/Cymreig?
+Diolch
+Croeso!
+Ydych chi'n defnyddio MS Word?
+Os felly, yna ewch i'r tab 'Review' neu 'Adolygu', ac mi welwch chi iconau Cysill a Cysgeir.
+Pwyswch ar yr un Cysill ar ol amlygu testun i'w wirio
+Os ydych yn defnyddio pecyn ar wahan i Word, yna mi gewch chi copio'r testun, agor Cysill (bydd eicon wedi ei osod ar y bwrdd gwaith) ac yna gludo'r testun i'r blwch, yna clicio 'gwirio'
+Search engine?
+Hmmm, dwi ddim 'di dod ar draws un sy'n well o ran y Gymraeg yn anffodus.
+Mae rhai yn well o ran preifatrwydd, ond mae hynny'n wahanol o beth!
+Duw a wyr!
+Mae'r sgwrs eisoes wedi mynd tu hwnt i mi!
+Dwi'n meddwl mod i'n defnyddio Microsoft Word weithie i sgwennu ambell bwt hirach na'r arfer.
+Sut mae copio testun?
+Mae'n digon hawdd i'w wneud (ar ol cael eich dysgu sut i wneud!) mae cyfarwyddiadau ar gael fan hyn https://www.youtube.com/watch?v=W0-J14EjrMA
+(maddeuwch y Saesneg!)
+Wyddoch chi beth!
+Drwy whare o gwmpas efo Word, dwi di gweld bod Cysill yno ar y bwrdd.
+Hwre!
+Newydd weld eich ateb diweddaraf hefyd
+Ydy hi'n bosib i chi anfon y cyfeiriad youtube uchod i fy e-bost
+Iawn, dim problem :)
+Diolch
+Ffarwel
+Iawn, dim problem :)
+mae hi ar y ffordd!
+Dyma ni https://www.youtube.com/watch?v=W0-J14EjrMA
+rwyf wedi colli cysgliad ar ol newid i Windows 10
+Bore da, Flin gen i am yr oedi wrth ymateb - mae'r brifysgol wedi bod yn gaeedig dros y Nadolig a'r flwyddyn newydd
+Os yw Cysgliad ar goll o hyd, mae modd ei ail osod trwy ddefnyddio'r Dewin sydd ar gael i'w lawrlwytho fan hyn https://www.cysgliad.com/cy/trwydded-am-ddim/ Gadewch wybod os ydych angen mwy o help
+Cofion Bari  Cymorth Cysgliad
+Diolch yn fawr iawn,Siân  
+Shwmae - dw i'n trio i lawrlwytho Cysgliad i Mac ond mae Mac i yn newydd ac yn dweud bod fi angen diweddaru fe, bydd 'na diweddariad unrhywbryd yn fuan
+Diolch, Huw
+Bore da!
+Bore da - ti 'di gweld fy neges?
+Do :) Yn anffodus, nid yw Cysgliad ar gael ar y Mac ar hyn o bryd mae'n flin gen i
+Ond mi gewch chi ddefnyddio  Cysill Ar-lein, Geiriadur Bangor a'r Porth Termau trwy eich porwr - hoffech chi'r dolenni?
+Ok - ti'n gwybod os fydd e yn y dyfodol
+Dw i 'di ffeindio'r un ar-lein felly mae hynny'n iawn ar y foment, diolch!
+Mae'n anodd dweud, yn anffodus
+Mae'n dibynnu os yw'n cael ei ariannu gan rywun
+Ond gwyliwch ein ffrwd Trydar a'n gwefan jest rhag ofn!
+Okei gwych wna i - diolch!!
+Croeso
+Hei Mike, dyw Gysgeir ddim yn diweddaru, mae'r neges gwall yn wonky ac mae'r amgodiad testun yn 'rong
+Mae Hannah di gofyn i mi dy haslo..
+Job i Steve Siencyn!!
+Da ni yn cyfarfod symud yr gweiynddion ar y funed Wnai i gadael i Dai wybod
+Helo, ma gen i Cysill a Cysgeir ar fy laptop gwaith, ond nid yw'n ymddangos ar word neu outlook
+Fel allai newid hyn?
+Hi Dean Da chi wedi rhedeg yr dewin ar perient gwaith chi ??
+Os gennoch hawliau gweinyddwr ar perient gwiaith chi ?
+nac oes
+Ok mae angen i tim TG chi llwytho yr word add in i chi mae gen nhw access i msi's sydd ydy yr install files da chi yn wybod pwy ydy yr swyddog TG ??
+Wnai i edrych ar system ni rwan - os gen Boncyff Cyf drwydded Sefydliadol ???
+Dwi ond wedi bod gyda Tech Trebanos am dair mis felly dwi ddim rhy siwr i fod yn onest
+Dwi'n credu efallai enw Catrin Davies fydde'n gysylltiedig gyda'r cyfrif
+Dwi ddim yn medru findio unrhyw Gwybodaeth am cyfrif Globincio ar yr System wedi findio un a Globincio.com ond mae on Hen - os gennoch chi 5 mins i cael cyfarfod teams cyflum ???
+oes
+Wnai anfon Gwahoddiad rwan @ Elin Ian dwi BTW ;)
+Wedi anfon Gwahoddiad Teams i chi ac dwi yn yr cyfarfod rwan ;)
+Sut gallaf gael trwydded?
+Helo
+Ar hyn o bryd mae trwydded ar gael am ddim i unigolion o fan hyn https://www.cysgliad.com/cy/trwydded-am-ddim/
+Diolch
+Croeso
+Oes unrhywbeth arall heddiw Mr Henry?
+Oes
+Pan on i'n trio defnyddio Cysill-ar-lein daeth neges 403 ForbiddenThis API key can only be used with the registered URL
+Dwi newydd wirio'r gwasanaeth ac mae'n gweithio ar hyn o bryd.
+Gan amlaf y peth gorau i'w wneud gyda neges o'r fath yna yw naill ai clirio cache eich porwr neu ddefnyddio porwr arall
+Diolch yn fawr
+croeso
+A oes modd diweddaru Cysgeir?
+Mae Dewin cysgliad yn edrych am ddiweddariadau bob tro rydych chi'n ei agor
+Dwi wedi diweddaru Cysgliad efo'r Dewin, ond dydy'r geiriadur ddim yn gweithio ers hynny.
+Dyna od - oes yna neges(euon) wall o gwbl?
+Roedd neges i ddiweddaru'r geiriadur.
+Iawn, a allech agor Cysgeir os gwelwch yn dda?
+Ac yna gwasgu f5
+does dim yn digwydd.
+Dim problem, o'r ddewislen ar dop Cysgeir, allech chi dewis Ymddangosiad os gwelwch yn dda?
+Dwi'n methu ei ddarganfod
+Ydych chi yn Cysgeir neu Cysill?
+Cysgeir
+Dim byd yn edrych fel hyn felly:
+Fel beth?
+Sori - roedd gen i ddelwedd i'w roi mewn ond mae e wedi diflannu
+Un funud
+Sori eto am yr oedi
+mae'r ddelwedd yn fach, ond ar ben fy nhudalen i mae File - View-Window-Help
+Gwych, diolch, cliciwch ar View felly
+iawn
+ac yna 'options'
+iawn
+Pa flychau sydd wedi eu ticio?
+show dictionary names
+tile new windows
+Iawn, mae hynny'n iawn
+Ceuwch y flwch yna, yna ewch i view eto, yna dewisiwch 'change dictionary' y tro hwn.
+does dim dewis o'r fath
+Beth yw'r 3ydd opsiwn i lawr ar eich sgrin chi?
+tile new windows
+ah dwi'n gweld, mae'n rhaid cau'r ffenestr yna i lawr, yna mynd i ddewislen View, ac yna i 'change dictionary'
+iawn
+oes yna ticiau i'w gweld yn y blychau yn y rhestr yn y blwch newydd?
+(neu a oes yna restr o gwbl?)
+oes - pob un wedi'i dicio
+Gwych - mae popeth yn edrych fel y dylai felly
+Allech chi dewis 'close', yna chwilio am unrhyw air ym mlwch chwilio Cysgeir plis?
+iawn
+ydy Cysgeir wedi darganfod y gair wnaethoch chi chwilio amdano?
+ydy
+gwych, felly mae Cysgliad yn gweithio, a gan bo Cysill yn 'siarad' wrth Cysgliad, mi ddylai hynny gweithio hefyd
+Allech chi agor Cysill os gwelwch yn dda?
+iawn
+Iawn, ym mlwch Cysill, allech chi teipio 'Roedd y ciii yn cufarth' plis?
+ac yna clicio 'Gwirio'
+mae wedi ei wirio -
+Gwych - mae popeth yn gweithio fel y dylai felly.
+O ran diweddaru, ond eich bod yn agor y Dewin pob hyn a hyn mi ddylai popeth fod yn gyfredol
+Diolch o galon - roedd yn brofiad gwych i gael cymorth gan berson call - nid robot di-gyfaddawd.
+Croeso mawr
+Falch fy mod i wedi gallu helpu.
+Oes unrhywbeth arall liciwch chi help gyda heddiw Mr Henri?
+Dim ar hyn o bryd, byddaf yn agor fy ffeiliau gwaith eto, ac os daw problem, dwi'n sicr o gael cymorth y tro nesaf hefyd!
+Ẁrth gwrs
+Rydyn ni yma nes 5 os oes angen ni arnoch
+Diolch a hwyl fawr!
+Hwyl am y tro
+Oes modd cael y cyswllt gês i llynedd ar gyfer myfyrwyr at y fideos defnyddio cysill/cysgliad plîs
+Dydy 'rcyswllt llynedd ddim yn agor/ fyw
+Diolch, Elly Gwyn
+Prynhawn da - flin gen i am yr oedi wrth ymateb
+Ai dyma'r fideo roeddech chi eisiau? https://www.youtube.com/watch?v=I9Lp6a59W00
+Wedi cael y linc rwan 
+Diolch am hwn
+Dwi yn gwned cwrs Hf ar hyn o bryd a tiwtor wedi son aam Cysgliad ond mae gen i Mac 10.14.6
+ Ydy version cysgliad sy ar gael yn wiethio efo hwn
+Prynhawn da
+Mae'n flin gen i, ond nid yw Cysgliad ar gael ar gyfer y Mac ar hyn o bryd
+Ond
+Helo, dwi'n cysylltu ar ran cwsmer o wasanaeth Cofio'r Gorffennol
+ Dyw'r cwsmer ddim yn rhy siwr sut i ddefnyddio Cysgliad ac wedi gofyn os oes ganllawiau ar gael?
+Annwyl Angharad, Diolch am gysylltu
+Mae gennym dudalen gymorth fan hyn https://www.cysgliad.com/cy/cymorth/ ac wrth gwrs mae ffeiliau help cynhwysfawr ar gael trwy ddewis dewislen Help neu Cymorth yn rhyngwynebau Cysill a Cysgeir
+Mae croeso i'r cwsmer gysylltu trwy'r rhyngwyneb sgwrsiol hefyd wrth gwrs
+Cofion Siwan  Cymorth Cysgliad
+nid yw y tudalen yn diweddaru
+Bore da John, Mae'n flin gen i glywed eich bod chi wedi cael problemau gyda'n wefan, ai  https://www.cysgliad.com/cysill/ar-lein/ sydd wedi bod yn camymddwyn
+Os felly, mae i'w weld yn gweithio'r bore yma, rhowch gynnig arni ac mi ddylai gweithi i chi hefyd
+Os na, ceisiwch glirio eich cache, neu ceisiwch gyda phorwr arall
+Cofion Gledrid 
+Prynhawn da Blake .
+Mae 'r ddau app Cysgeir a Cysill wedi lawrlwytho i'r cluniadur ond nid yw ar 'Word'
+Efallai mai'r ffaith bod pob ffeil yn awr yn safio i Onedrive
+'Rwyf wedi cael trafferth gyda'r cluniadur yr wythnos diwethaf a dyna paham mae ffeiliau yn mynd i Onedrive
+A yw yn bosib defnyddio 'Cysgliad' trwy Onedrive
+Cofion
+Helo eto Viv, Ydw i'n iawn i ddweud bod eich ffeiliau'n cael eu cadw ar OneDrive, ond bod Word wedi ei osod ar eich cyfrifiadur
+Os felly, mi ddylai Cysill a Cysgeir fod ar gael yn nhab Adolygu neu Review ar dop Word
+Os nad yw'r eiconau yna, yna mae datrusiad posib ar gael fan hyn:  https://www.cysgliad.com/cy/cymorth/#Sut%20mae%20datrys%20eiconau'n%20diflannu%20o%20Word
+Os ydych yn ceisio defnyddio Word yn gyfan gwbl ar lein, yna na, dyw Cysgliad ddim yn gweithio gyda hynny ar hyn o bryd
+fyddai yn bosib cael gair ar y ffon plis
+Mae'n flin gen i ond rydyn ni'n cynnig gwasanaeth trwy'r rhyngwyneb sgwrsiol yma yn unig
+Alla i helpu?
+Roedd cysgliad a cysgliad gennyf ar y cyfrifiadur cynt, oes angen archebu eto.
+Dim ar hyn o bryd, na, mae hi ar gael am ddim am nawr - ewch i  https://www.cysgliad.com/cy/trwydded-am-ddim/ i'w llwytho i lawr i'ch cyfrifiadur
+Helo archebais cysgliad amser hir yn ol wedi defnyddio am flynyddoedd
+mae gen i'r holl fanylion ond dim yn siwr sut iw lawrlwytho eto oherwydd mae gen i ddyfais newydd nawr.
+wedi trio mewngofnodi mae gen i licence number a password ond dydy'r wefan ddim yn gofyn am hynny jest ebost
+yr ebost wnes i prynu cysgliad gyda oedd un prifysgol dydy hynny ddim yn bodoli rhagor chwaith
+yn anffodus.
+Bore da
+Erbyn hyn  mae Cysgliad i'w gael am ddim gan ein bod ni wedi cael arian gan y llywodraeth i ganiatáu hyn, felly does dim angen y drwydded (ond cadwch hi'n ddiogel at y dyfodol jest rhag ofn)
+oce dim problem, felly mae'n iawn i mi jest lawrlwytho te am ddim?
+Er mwyn cael at y pecyn nawr, ewch i  https://www.cysgliad.com/cy/trwydded-am-ddim/ ac yna cliciwch ar 'Lawrlwytho'
+ie
+diolch i ti on i ddim yn siwr beth i neud ahah teimlo'n silly nawr
+Croeso mawr
+Dim o gwbl!
+diolch enfawr !
+Croeso - dwi yma nes 17:00 os oes angen mwy o gymorth arnoch
+gret diolch i ti
+Nid yw cysill yn gweithio mae arwydd "403 ForbiddenServer Error" yn dod i fyny.
+Bore da, Erbyn hyn rydyn ni wedi datrys y problemau gyda Cysill ar lein - mi ddylai hi weithio i chi erbyn hyn, ond os na, plîs cysylltwch eto trwy'r rhyngwyneb sgwrsiol
+Cofion Huang 
+nid yw cysill ar lein yn gweithio
+Prynhawn da
+A yw Cysill ar lein yn cynnig neges gwall '403 Forbidden'
+Os felly rydym yn ymwybodol o'r broblem hon ac yn ceisio ei thrwsio ar hyn o bryd.
+Ydy, iawn diolch.
+Croeso
+Flin gen i am hyn - rydyn ni'n gobeitho bydd hi'n gweithio eto erbyn bore fory
+gret, diolch
+Rydw i wedi gosod y Cysgliad newydd ers rhai wythnosau, ond pam mae'r rhaglen yn cymryd cymaint o amser i symud o un cywiriad i'r nesaf wrth fynd drwy'r testun Cymraeg
+Diolch.
+Annwyl Non Harvey, Diolch am gysylltu, mae'n flin gen i am yr oedi wrth ymateb
+Mae Cysill mond yn ymddangos os oes wall
+Fel arall, os mae rhannau mawr o’r ddogfen yn gywir, mae Cysill yn ddistaw ac yn parhau i fynd drwy’r paragraffau
+Ond gall y gyrru paragraffau yma yn ôl ac ymlaen rhwng Word a Cysill fod yn araf iawn
+Hyd nes i ni wella’r cod gyfathrebu rhwng y ddau becyn (yn enwedig ar gyfer ddogfennau mawr, ar y cyfan cywir) mae’n werth dewis y testun sydd angen ei gywiro fesul dudalen neu ran (h.y. ‘section’)
+Gobeithio fod yn o gymorth
+Cofion Cuthbert 
+Rwy'n methu cael arwydd CySill nôl ar dop y sgrin i wirio ffeil
+Rwy'n methu cael arwydd CySill nol ar dop y sgrin i wirio ffeil
+Prynhawn da, Mae'n flin gen i am yr oedi wrth ymateb
+Ai o dab Review/Adolygu Word mae'r eicon wedi diflannu
+Os felly, efallai bydd y cyfarwyddiadau sydd fan hyn o help https://www.cysgliad.com/cy/cymorth/#Sut%20mae%20datrys%20eiconau'n%20diflannu%20o%20Word Cofion Idwal 
+Mae eicon CySill wedi diflannu wrth bwyso Adolygu
+Oes rhywun yna?
+Prynhawn da - flin gen i am yr oedi
+Ydych chi wedi ceisio dilyn y cyfarwyddiadau yn yr e-bost anfonais i ddoe?
+Mae'n ddrwg gen i, ond wela i  ddim neges e-bost gennych chi ddoe,
+Dyna od, dim problem, awn ni trwy'r broses nawr
+Y peth cyntaf i'w geisio yw ail-redeg Dewin Cysgliad - oes eicon gwyrdd Dewin Cysgliad ganddochc hi ar y bwrdd gwaith?
+Oes
+Gwych - os ydych yn agor y Dewin, yn y ffenest newydd, faint o diciau gwyrdd ydych chi'n eu gweld plis?
+Tri
+Mae'n dweud bod Cysgliad wedi'i osod yn iawn
+Da iawn, mae'n bosib bod y Dewin wedi trwsio'r broblem, os yw'n dweud 'Canfuwyd Bar Offer Cysglid', fell a allwch chi agor Word nawr plis?
+Sut alla i fynd nôl i Dewin i weld a yw 'Canfuwyd...' yno?
+Os oes 3 tic yna wedyn mi ddylai 'Canfuwyd' fod yna, ond os am wirio wedyn gyd mae'n rhaid gwneud yw clicio ar yr eicon gwyrdd eto
+Ble mae'r eicon gwyrdd?
+Sori, eicon Dewin Cysgliad, hynny yw hyn eto:
+Dim byd yn digwydd.
+Efallai bo'r ffenestr yn agored eisoes - ceisiwch ddwbl glicio ar yr eicon
+O, diar, mae wedi diflannu nawr!
+Yr eicon?
+Ie
+Od iawn
+Dim ots - Ai Windows 10 sydd ar y cyfrifiadur?
+ie
+Iawn, felly er mwyn cael yr eicon nol, cliciwch ar yr eicon 'Windows'  neu 'Start' yng nghornel isaf eich sgrin (ar y chwith) yna yn y blwch chwilio, teipiwch Dewin
+Yna gewch chi pinio'r eicon i'r bar tasgau (os hoffech chi wneud hynny wrth gwrs!)
+Iawn, rwyf wedi gwneud hynny
+gwych, felly os ydych chi'n agor y Dewin nawr, yna mi ddylai'r Dewin edrych fel hyn:
+Iawn, fel yna roedd e o'r blaen.
+Dyna fe
+IAwn, felly beth am Word - ydy'r eiconau wedi ailymddangos yn nhab 'Review'?
+Sori, nac ydy!
+Dyna biti, dim ots, mae gen i mwy o bethau i'w drio
+Oes gennych chi amser nawr
+Neu hoffech chi roi cynnig arni'n ddiweddarach neu fory?
+Mae lan i chi yn gyfangwbl - hapus i helpu nawr os oes gennych chi amser.
+Mae gen i ddolen at y cyfarwyddiadau ar lein os yn well gennych hefyd
+Rwyf wedi ceisio dilyn y cyfarwydiadau ar-lein sawl gwaith ond mae rhywbeth o'i le
+Rwyf wedi teipio Windows - Settings - Aps and Features
+Wedyn Cysgliad..
+Hwnnw'n edrych yn iawn, yna i Word - Ffeil - Dewisiadau
+Ond mae'r ffenestr nesa yn anghywir
+Rw'n gwneud rhywbeth o'i le mae'n rhaid.
+Wrth fynd i mewn i ddewisiadau Word, ydych chi'n gweld rhywbeth fel hyn:
+(ond o bosib yn Saesneg wrth gwrs)
+Nac ydw
+Hyn sy'n dod:
+Dwi'n credu eich bod chi'n edrych yn y lle anghywir
+Yn WOrd ei hun, oes yna opsiwn 'File' i'w weld yn y cornel uchaf ar y chwith?
+neu rhywbeth fell hyn o bosib:
+Oes, ond dim ond Save As sy'n dod wrth glicio ar hwnnw.
+A beth am fotwm amryliw (rhif 1 yn y delwedd uchod)?
+Does dim byd wsrth dym,y;w dehoir o;r sylapl W
+Sori
+Does dim byd wrth ymyl y symbol Word
+Mae patrwm y sgrin yn edrych yn wahanol i'r uchod
+rhywbeth fel hyn felly:
+A fyddech yn bodlon anfon sgrinlin o'r ddewislen Word i fi os gwelwch yn dda?
+Mi geisia i
+Ond ar fy sgrin i, ar waelod y rhestr dan Word mae Options, ac wrth glicio ar hwnnw rydw i'n cael User Interface.. Personalise..Start up Options yn lle'r ffenestr sydd yn y canllawiau.
+Pa fersiwn o word yw hi?
+Word 10
+Mae hynny'n od, ro'n i'n meddwl efallai mai hen fersiwn o Word gyda termau gwahanol oedd dan sylw fan hyn, ond na
+Ai yn Word ei hun mae'r opsiynau yna?
+Ie
+Wrth glicio ar Word rwy'n cael Restore, Move, Size etc, ac wrth glicio ar Ffeil rwy'n cael y rhestr gydag Options.
+Ond beth os oes yna ddogfen Word ar agor, pa opsiynau sy'n ymddangos yn y ddewislen wedyn?
+Yr un opsiynau'n union.
+Iawn, diolch, beth ydych chi'n gwneud er mwyn dechrau dogfen Word newydd sbon fel arfer?
+Os ydych chi'n jest dwbl clicio ar yr eicon Word, ydych chi'n gweld ffenestr gyda rhywbeth fel hyn yn ymddangos ar yr ochr chwith:
+Dan Ffeil, clicio ar New yna Blank yna Create
+Felly pa opsiynnau gwahanol sydd o dan 'ffeil', heblaw am newydd?
+Oes yna opsiynau fel yn y delwedd uchod?
+Nac oes
+Mae 10 opsiwn,  Save, Save As, Open, Close, Info, Recent...
+Help, ac o dan Help mae Options ac Exit.
+oc o ddewis 'options' fan yna wedyn rydych chi'n gweld ye 'startup options' ac ati?
+Ie, a dyna lle rydw i'n mynd i mewn i ffenestr wahanol i'r canllawiau
+mae'r bocs Start up Options yn wag.
+Mae hwn yn rili od - dim beth dybbwn i'n disgwyl gweld o gwbl
+Cystal i ni edrych yn 'personalise' jest rhag ofn bo beth ydyn ni eisiau yn fan yna, allech chi neud 'ny plis?
+Y cynfan sydd yna yw Ianto ac Harvey
+Ond ar y chwith mae rhestr o ddewisiadau General, Display, etc a'r ola ond un yw Add-ins
+Os clicia i ar hwnnw rwy'n cael pennawd Manage Mircosoft Office Add-ins
+Mae 4 adran a'r un olaf yw Disabled Add-ins
+Yr unig eitem wrth hwnnw yw CysgliadOfficeAdd-insExpress
+Ar gwaelod mae Manage COMS  Add-ins etc a Go
+A oes rhywbeth alla  iwneud yno?
+Gwych
+- Ie, dyna lle 'dan ni eisiau bod
+Iawn, felly, cliciwch ar 'Go', yna beth welwch chi?
+Rhywbeth fel hyn, gobeithio:
+Gyda CysgliadOffice etc mae 4 dewis - OK, Cancel, Add a Remove
+Iawn, rhowch tic yn y blwch ger 'Cysgliad Office...' yna dewisiwch 'OK'.
+Mae sgrin wag yn dod i fyny gyda'r enw Doc 1, Rwy wedi ceisio agor ffeil Word arall ond dydy'r eicon ddim i'w weld eto.
+Iawn, gwnewch yn siwr fod POB dogfen word wedi eu cau, yna agorwch Word eto
+Sori
+Dim byd eto, mae arna i ofn, a bydd rhaid i fi roi'r gore iddi nawr i nôl nith i fi o'r ysgol am 4.30
+Rwy am dreio heno eto, ac os ydych yn fodlon fe hoffwn eich ffonio fory os caf fi, i geisio gorffen y broblem
+Allwch chi anfon eich rhif ffôn neu e-bost ataf heno, os gwelwch yn dda
+Diolch y fawr am eich amynedd,
+Popeth yn iawn, dim ond y gwasanaeth sgwrsiol yma rydyn ni'n cynnig ar hyn o bryd mae'n flin gen i, ond dwi yma yfory o 9-5 felly cysylltwch pan fo'n gyfleus :)
+Wrth gwrs, Diolch yn fawr.
+Diolch - mwynhewch eich diwrnod
+Hefin Mathias sy yma eto, am 10.10pm
+Newyddion da o lawenydd mawrmae Cysill wedi dod nôl o ble bynnag oedd e
+Wn i ddim sut, ond does dim rhaid cael gwybod, nac oes.
+Bored da, Falch iawn bod Cysill yn ôl yn ei le, mae'n siŵr gen i oll oedd yn weddill i ni ei wneud ddoe oedd ailddechrau'r cyfrifiadur ar ôl y newidiadau nathon ni
+O leiaf rydyn ni'n gwybod ble i fynd i newid y gosodiadau os yw'r eiconau yn mynd ar goll eto :) Diolch yn fawr am adael i mi wybod bod y broblem wedi ei ddatrys
+Cofion Gelert 
+Helo
+Dwi wedi llawrlwytho dewin cysgliad trwy’r linc trwydded am ddim a gefais gan Arianrhod yn y Ganolfan
+Yn anffodus dwi ddim yn gallu dod o hyd iddo ar fy ngliniadur
+Gallwch chi helpu?
+Helo Tim, Mi ddylai'r eicon yma ymddangos ar y bwrdd gwaithYdy hi yna
+Dwi wedi archwilio Word gan edrych o dan ‘review’ a does dim i’w weld yno o ran cysgliad
+Cefais sgrinlun o hyn gan Lucy ac mae i’w weld bo gwahaniaeth yn y gosodiadau ar fy nghliniadur.
+Mae Word yn gallu bod yn broblemus weithiau yn anffodus
+Weithiau mae modd trwsio hyn drwy ailddechrau'r cyfrifiadur (hynny yw os ydych chi newydd osod Cysgliad)
+Weithiau mae angen mynd trwy'r cyfarwyddiadau sydd ar gael fan hyn i drwsio'r broblem https://www.cysgliad.com/cy/cymorth/#Sut%20mae%20datrys%20eiconau'n%20diflannu%20o%20Word
+Weithiau (ac mae hyn digwydd yn eithaf anaml, mewn gwirionedd) mae'r ddwy raglen yn gwrthod siarad â'i gilydd, a'r unig opsiwn yw defnyddio rhyngwyneb Cysill a glynu testun i mewn iddo, yna gwirio'r testun, ai' copïo a'i lynu nôl yn Word.
+Helo Wedi methu llawrlwytho Cysill ar fy nghyfrifiadur
+Nid wyf am newid y barrau sydd ar fy nghyfrifiadur.
+Dwi wedi methu a llawrlwytho Cysill
+Nid wyf am newid y barrau sydd ar y cyfrifiadur felly nid oedd modd cyflawni'r llawrlwytho.
+Diolch am gysylltu â Chymorth Cysgliad trwy'r rhyngwyneb sgwrsio
+Ai son am negeseuon diogelwch Windows ydych chi
+Os felly, does dim angen becso
+Mae Cysgliad yn ddiogel
+Mae’n rhaid sicrhau bod y negeseuon yn cyfeirio at Ddewin Cysgliad ond os ydyn nhw, gallwch ddewis yr opsiwn i osod (Install) yr ap heb ofni ei bod yn mynd i wneud niwed i’r cyfrifiadur
+Rydw i yma nes 5yh heddiw, felly os hoffech sgwrsio am hyn yna plîs cysylltwch eto
+Cofion Lowri  Cymorth Cysgliad
+Helo, Diolch am eich neges
+Fe gytunais i ddewis install a chliciais i ddweud ‘ie’ ond wedyn daeth neges i fyny yn gofyn os oeddwn am newid barrau’r cyfrifiadur
+Pan ddwedais i ‘na’ doedd hi ddim yn bosib cyflawni’r broses llawrlwytho
+Helo Smith, Dyna od - dwi ddim yn gyfarwydd â'r term 'barrau' yng nghyd-destun cyfrifiaduron - oes gennych chi sgrinlun o'r neges o gwbl
+Helo Gethin , Fe driai eto ac os na chaf lwc rhof wybod
+Diolch i chi
+Bore da Wayne ,   Dwi angen eich help i brynu a llawrlwytho Cysgliad
+Gallwch chi roi cyfarwyddiadau i mi os gwelwch yn dda
+wedi llawrlwytho ond dyw e ddim yn ymddangos ar dud ref WORD?
+Prynhawn da
+Felly rydych chi wedi llwytho'r Dewin i lawr, a'i rhedeg ?
+do
+roedd e'n arfer dod lan ar dud review ond mae wedi diflannu
+Iawn, ydych chi wedi ailddechrau Word ar ol rhedeg y Dewin?
+do
+Iawn, ac mae eicons Cysill a Cysgliad ar eich bwrdd gwaith?
+ydyn
+Iawn ten, allech chi ailddechrau'r cyfrifiadur os gwelwch yn dda?
+ok
+Prynahwn da
+Prynes i Cysgliad blynyddoedd yn ol, dywedodd y person wrtha i dros y ffon, unwaith fi'n prynu fe bydda i'n gallu rhoi e ar cyfrifiadur arall, newydd...
+Wedi ffeindio fe!
+Sori, uchod ddim yn glir
+Prynhawn da - flin gen i am yr oedi wrth ymateb
+Os ydych chi wedi llwytho'r Dewin i lawr o fan hyn https://www.cysgliad.com/cy/trwydded-am-ddim/ yna dylai'r Dewin gosod yr ategyn i chi
+Gret, diolch
+Croeso :)
+Bore da - ai dim ond â Windows mae Cysgliad yn gweithio
+ Mae Apple Mac gen i
+ Does dim gobaith i mi ei ddefnyddio, felly?
+Bore da
+Ie, ar gyfer Windows yn unig, mae'n flin gen i
+Ond cewch chi defnyddio Cysill trwy'ch porwr we
+Yn anfoddus na - dwi yn mac user hefyd
+Defynddio Cysill ar lein ;)
+Oes cynlluniau ar waith i gynnwys cyfrifiaduron iMac
+ [Mae rhyw gof gen i mod i wedi gofyn y cwestiwn hwn ryw 15 mlynedd yn ôl.]
+Ddim ar yr funed mond os mae yr WG yn ariannu dwi wedi bod yn gofyn am 15 blwydden hefyd
+Parhaed!
+Diolch - a hwyl fawr
+Bore da,
+Bore da, diolch am gysylltu
+Gyd sy'n rhaid gwneud yw mynd i fan hyn https://www.cysgliad.com/cy/trwydded-am-ddim/ ac yna clicio ar 'Lawrlwytho' er mwyn llwytho'r Dewin i lawr yna'i redeg
+Bydd y Dewin yn gosod eiconau yn nhab Adolygu (Review) y fersiwn o Word sydd wedi ei osod ar eich cyfrifiadur.
+Ar hyn o bryd nid yw'n gallu gwneud hynny gyda Word trwy'ch porwr, fodd bynnag
+Diolch
+Rwyf wedi gwneud hynny
+Oes modd imi ychwanegu geiriau, etc., a rhoi gwybod i'r rhaglen ar fy nghyfrifiadur fy mod am dderbyn rhai ffurfiau roedd y meddalwedd wedi eu nodi fel rhai anghywir?
+Oes, mae modd ychwanegu geiriau at eich geiriadur personol, wnai estyn am y cyfarwyddiadau nawr
+Diolch
+Rwy'n edrych 'mlaen at dderbyn y cyfarwyddiadau.
+Flin am yr oedi
+Y peth cyntaf i'w wneud yw creu geiriadur personol yn Cysill
+Yn Cysill, dewisiwch 'Golygu' o'r ddewislen ar y top
+Yna dewisiwch 'Geiriaduron Personol'
+Mae ffenestr Geiriaduron Personol yn dangos rhestr o'r geiriaduron personol cyfredol sy'n cael eu defnyddio gan Cysill
+Mae tic yn y blwch gyferbyn â geiriadur yn dynodi ei fod yn cael ei ddefnyddio i wirio sillafu
+Os nad oes tic yn y blwch, nid yw'n cael ei ddefnyddio
+Cliciwch unwaith ar flwch i ychwanegu neu ddileu tic.
+Mae'r botwm 'Ychwanegu' yn y ffenestr newydd yn gadael i chi ychwanegu geiriadur at y rhestr
+Drwy glicio ar hwn, bydd ffenestr safonol agor ffeiliau Windows yn ymddangos
+Bydd hon yn gadael i chi ddewis ffeil geiriadur (.dic).
+Os ydych am greu geiriadur personol newydd, teipiwch ei enw yn y blwch testun File name:
+Bydd Windows yn eich hysbysu nad yw'r geiriadur hwn yn bodoli ac yn gofyn i chi a hoffech ei greu
+Cliciwch Yes i'w greu neu No i beidio â'i greu.
+Ar ol gwneud hynny, bydd bodd clicio ar fotwm 'Dysgu' yn Cysill wrth i chi wirio dogfen
+Diolch
+Fe ddilynaf eich cyfarwyddiadau
+Hwyl am y tro.
+Croeso
+Dan ni yma nes 5yh os oes angen mwy o help 
+Hwyl am y tro
+Sut i lwytho Cysgliad ar gyfrifiadur newydd
+Bore da
+Ges i gyfrifiadur newydd ychydig yn ôl
+Roeddwn i'n meddwl mod i wedi llwytho'r rhaglen yn iawn ond doedd Cysill ddim yn ymddangos o fewn Word
+Dwi wedi dadlwytho'r cyfan rwan ac yn fy nhgyfrif ond ddim yn cofio sut mae llwytho'r rhaglen.
+Digon teg, ar hyn o bryd gyd mae'n rhaid gwneud yw mynd i'n gwefan (https://www.cysgliad.com/cy/trwydded-am-ddim/) clicio 'lawrlwytho' ac yna rhedeg y Dewin
+Ai dyna'r fersiwn llawn
+Achos mi dalais i  am Cysill nôl yn 2019?
+Ie, y fersiwn llawn yw hi
+Ar hyn o bryd mae i gael am ddim, gan fod y Llywodraeth wedi noddi ni i'w ryddhau am ddim
+Dwi ddim yn gwybod pryd bydd y nawdd yma'n dod i'w ben
+Ok diolch
+Mi roi i gynnig arni rwan!
+Croeso
+Rhowch wybod os oes rhywbeth yn mynd o'i le - dan ni yma nes 5 :)
+Diolch
+Sut mae rhedeg Cysill o Outlook#?
+prynhawn da
+Sori!
+Mae o'n gweithio i mi nawr :)
+popeth yn iawn :)
+Diolch am ymateb!
+Croeso
+Helo
+Mae ganddom ni Cysgliad ar nifer o sgriniau ac yn talu £40 y flwyddyn dwi yn credu am licence
+Da ni rwan angen i'r tim cyfan (12 person) gael y meddalwedd
+Sut mae gwneud hyn plis?
+Helo - dan ni ddim yn delio gyda thrwyddedau sefydliadol trwy'r rhyngwyneb sgwrsio yma, mae'n flin gen i
+Gret - diolch yn fawr
+Sori am yr oedi, dyma'r cyfeiriad i'w e-bostio cysgliad@bangor.ac.uk
+Diolch
+Croeso
+dwi newydd roi y cd cysgair yn y cyfrifiadur ond yn methu cofrestru y cod
+Prynhawn da - does dim angen defnyddio'r CD na'r cod bellach
+be ydir drefn plis
+Ewch i fan hyn https://www.cysgliad.com/cy/trwydded-am-ddim/
+Yna llwytho'r gosodwr i lawr yna'i rhedeg
+diolch
+Prynwyd trwydded i ddefnyddio Cysgliad ar dros 100 o gyfrifiaduron flynyddoedd yn ol
+Sut mae ei ddiweddaru?
+Tybed oes gennych chi unrhyw awgrymiadau ar gyfer cyflymu'r broses o wirio dogfen gan ddefnyddio Cysill 3.0 os gwelwch yn dda?
+Hi Andrew sydd yma ydy chi yn defnyddio yr word plugin ??
+Ydw
+Roedd yn arfer hedfan drwy ddogfen yn gyflym ond mae'r fersiwn newydd yma yn cymryd tya 3 eiliad i symud o un fraeddeg i'r llall
+frawddeg*
+ydy yr dogfen yn un iaith cymraeg ??
+Ydy
+os modd i ni cael cyfarfod teams ar rhywbryd i fi cael golwyg ???
+Oes - dim problem
+Pryd ydych chi'n rhydd?
+beth am 1.15 heddiw wnai i anfon gwhoddiad teams i chi ???
+iawn - diolch
+efallai y bydd angen i mi adael yn sydyn os bydd rhywbeth brys yn codi yn y gwaith
+ddim probs wedi anfon gwahoddiad i chi
+diolch yn fawr
+welai chi am 1.15 ;)
+Dwi yn yr cyfarfod teams ;)
+Roedd Cysgliad gyda fi a 'spellcheck' Cymraeg ar Word
+Prynhawn ma mae wedi diflannu
+ Sut alla i gael e nol, os gwelwch yn dda
+ Mae hen CD gyda fi.
+Prynhawn da
+Mae'n well rhoi'r CD o'r neilltu am nawr
+Hi Abigail Sydd yma mae na modd i chi llawrlywtho yr fersiwn mwyaf dwitheraf o fama  https://www.cysgliad.com/cy/trwydded-am-ddim/
+Ceisia wneud
+Diolch!
+Os mae gen chi hen version o CD possib bydd rhaid i chi newid neu deleu yr hen .dot files ond dylai yr dewin gwnued honna i chi
+Iawn, diolch
+Croesi bysedd!
+i.e dad lwytho cysgliad or control panel (win 7) neu settings >programs yn windows 10
+Helo
+Helo
+Ydy Cysgliad ar gael fel App
+I gydfynd a Google Chrome
+Yn anfoddus Mae o ddim Defnywch Cysil ar llein
+Diolch am yr wyb
+pan fyddaf yn gwasgu golygu a gwirio ar ddechrau dogfen dwi'n cael y neges bod cysill wedi gorffen gwirio'r ddogfen
+pan fyddaf yn gwasgu golygu a gwirio ar ddechrau dogfen dwi'n cael y neges bod cysill wedi gorffen gwirio'r
+Prynhawn da
+prynhawn da
+Felly mae'r cyrchwr ar ddechrau'r ddogfen, hynny yw cyn y gair cyntaf?
+Ydy
+A yw'r ddogfen yn gymharol fawr?
+Na 630 o eiriau
+Felly mae'n bosib bod Cysill yn gwirio'n gyflym iawn fan hyn
+Allech chi teipio gwall amlw mewn i'r ddogfen a ceisio eto plis
+Rhywbeth fel Helllo?
+wedi gwneud 
+Dwi wedi cael y broblem hon yn y gorffennola thechnegydd wedi ei datrys i mi o'r ganolfan
+Felly mi ydych chi'n derbyn yr un un neges ond heb i Cysill wirio go iawn?
+Credu bod angen i  mi siarad rhywun all fy llywio drwy'r broses.
+Felly mae 'helllo' heb ei gywiro?
+nac ydy
+Od iawn
+ Dwi'n credu bod hyn y tu hwnt i'm mhwerau technegol i
+Wnai gofyn i Zeus ein uwch technegydd i gysylltu a chi er mwyn iddo geisio helpu
+ai gari3257966516sad@hotmail yw'r e-bost gorau i ddefnyddio?
+Ie A dwi'n credu mod i wedi cysylltu a Bert yn y gorffennol.
+Ie, siwr o fod!
+Mae gen i gwpl o gwestiynnau
+er mwyn i mi gasglu digon o wybodaeth iddo
+helo
+Helo
+dwi newydd installio cysgliad
+Dydy cysgliad o fewn Microsoft Office ddim wedi ei installio
+Ydy o'n file ychwanegol sydd angen i lawrlwytho?
+Na, mi ddylai'r pecyn osod Cysgliad o fewn MS Office
+Weithiau mae'n rhaid ail-ddechrau'r cyfrifiadur cyn iddo osod yn gywir
+Allech chi wneud hynny nawr plis?
+iawn, diolch
+Wnai drio hynna
+Croeso
+Dewch nol os nad yw'n gweithio - rydyn ni yma nes 5 :)
+newydd ailgychwyn y cyfrifiadur
+Dydy o dal ddim yna o dan Programs
+Oes rywbeth arall ellai drio?
+A allwch chi agor Dewin Cysgliad os gwelwch yn dda?
+newydd wneud
+dal ddim yna
+Nacdi
+Y gwirionedd yw, mi ddyla'r Dewin wedi gosod cyfarpar Word heb unrhyw problemau
+O bryd i'w gilydd dyw e ddim yn llwyddo i wneud hynny, ond yn anffodus y Dewin yw'r unig ffordd o gosod y cyfarpar.
+Dydyn ni ddim yn siwr pam yn union mae hyn yn digwydd, mae'n flin gen i
+Dyw e ddim yn digwydd yn aml.
+Rydyn ni'n ceisio casglu data er mwyn cael gwell syniad o ran beth sydd o'i le
+oce ta
+wnai jyst drio deletio fo ag ail installio ta?
+Wel, rhowch gynnig arni, ond dwi ddim yn credu y bydd hynny'n gweithio (dyw e ddim wedi yn fy mhrofiad i hyd yma)
+Oes ots gyda chi gadael imi wybod pa system rydych chi'n ei ddefnyddio plis?
+Windows 10!
+Diolch
+Wnai drio hynne wan ta
+diolch am drio
+Croeso, sori bo fi methu helpu pellach
+Wrth gwrs mae modd copio a gludo testun i Cysill, yna copio a gludo nol i Word wedi i chi ei wirio
+Dw i'n dysgu Cymraeg ac eisiau defnyddio Cysill.
+Mae fy nghfrifiadur wedi i ail-gyfluno  (re-configured) acalla ni ddim yn llawllythro am y tro cyntaf
+ Ymddheuriadau am gystrawel wael
+ Atebion technnego yn Saesnag os gwelwch yn dda
+Prynhawn da Neil
+ac i chi hefyd
+Wyt ti wedi ceisio lawrlwytho Cysgliad o fan hyn https://www.cysgliad.com/cy/trwydded-am-ddim/
+Neu fan hyn https://www.cysgliad.com/en/free-licence/
+Na ro'n i defniddio yr app yn fy hen gyfrifiadur cyn ei'repair'
+Ah iawn
+Y peth cyntaf i'w wneud yw mynd i'r dudalen yna yna clicio ar 'Download' felly
+Dw i'n  geld marc cwestiwn dros yr icon pan dw 'i'n clicio ar cysgeir neu cysill
+Bore da
+bore da.
+Dyna od - a fedrwch anfon sgrinlin os gwelwch yn dda?
+A ydych chi'n ceisio defnyddio'r feddalwedd ar Mac?
+ydw ac wedi llwyddo i wneud ers y cychwyn cyntaf......
+oes posib bod yn llai ffurfiol
+dw i'n teimlo fel mod i'n sgwrsio efo'r dyn treth o Borthmadog
+Oes oes ;)
+Hi Owain yn anfoddus mae Cysgliad ddim yn weithio hefo Mac ers 2008 mond i periannu windows ;)
+Iawn ten, Y broblem yw dyw'r fersiwn mwyaf diweddar ddim yn gweithio ar Mac, ac mae'r hen fersiwn (o'dd 'di ca'l ei ddatblygu nol yn 2008 dan nawdd Bwrdd yr Iaith) heb gael ei ddiweddaru ers hynny
+go iawn?
+(ac felly dim yn gweithio ar Macs modern!)
+ie, sori
+roedd o'n gweithio'n ok-ish
+ydy cysgeir dal i weithio ar iphone
+ma hwnnw wedi mynd yn od yn ddiweddar
+Yr ap geiriaduron yfe
+Mi ddyle fe gweithio, dwi ddim 'di clywed bo fe ddim hyd yma
+Rhoedd na hen fersiwn wedi airiannu gan bwrdd yr Iaith yn 2008 ac roedd on weithio hefo mountain llion ond ddim hefo catalina neu Big Sur dwi yn defnyddio Mac hefyd yn anfoddus mae na ddim plans i datblygu ar mac ar yr funed
+ia - ok 
+wel dyna biti bod cysill ddim yn gweithio ar mac
+dw i newydd ddefnyddio cysill ar lein am y tro cyntaf heddiw - felly mi fydd rhaid defnyddio hwnnw yn y dyfodol
+hefyd os ti yn llwytho swiftkey i du phone ios mae onn gwnued predictive text cymraeg
+dwi hefyd yn defnyddio yr isod
+am termau - termau.cymru
+yr ap G ar yr ffon
+ac cysill ar lein
+ok diolch o galon - wedi cymryd llun o dy awgrymiadau
+diolch am dy gymorth
+Croeso, joia dy ddiwrnod :)
+Cyfarchion
+A oes fersiwn of Cysgliad addas ar gyfer 'Chromebook' os gwelwch yn dda
+A fedrwch anfon fanylion I mi
+Diolch yn fawr
+Annwyl Oliver, Diolch am gysylltu
+Mae'n flin gen i, ond mae Cysgliad yn addas ar gyfer cyfrifiaduron personol sy’n rhedeg ar Windows 7, 8 a 10 yn unig
+Ar hyn o bryd, nid oes fersiwn ar gael ar gyfer systemau gweithredu ar wahan i Windows
+Mae'n bosib defnyddio Cysill ar lein (  https://www.cysgliad.com/cysil...), Geiriadur Bangor (http://geiriadur.bangor.ac.uk/) a'r Porth Termau (http://termau.cymru/) trwy eich porwr
+Cofion Cerys 
+Cyfarchion Ceryl 
+  Diolch am yr ateb, er yn siomedig, sylwaf ar y paragraff “Ar hyn o bryd, nid oes fersiwn ar gael ar gyfer systemau gweithredu ar wahân i Windows.” A fedrwch fy nghynghori ar pa bryd fydd y fersiwn newydd ar gael
+  Prynais y Chromebook yn arbennig ar gyfer project rwyf ar fin dechrau arni – heb sicrhau bod Cysgliad yn rhedeg arno
+  Diolch yn fawr am eich cydweithrediad
+  Cofion Dafydd Collins
+Annwyl Sioned, Flin gen i os ydw i wedi eich camarwain, y gwirionedd yw does dim cynlluniau ar y gweill o ran datblygu fersiwn ar gyfer Chromebook, Mac neu Linux
+Efallai bydd fersiwn yn cael ei ddatblygu yn y dyfodol (pell?), ond mae hyn yn dibynnu ar rywun yn ariannu prosiect o'r fath
+Cofion Daniel 
+Cyfarchion Tudur  Diolch yn fawr iawn am ei cymorth
+ Awn ymlaen mewn gobaith
+Bore da!
+Bore da
+Newydd uwchraddio i Windows 10
+Dyw'r botwm "dysgu" yn CySill ddim yn gweithio nawr
+Mae hyn wedi digwydd imi o'r blaen, ond dwi ddim yn cofio sut i gywiro'r peth, sorri
+Allech chi f'atgoffa i
+(Gyda llaw, dwi newyd sylwi hefyd fod y ffenestr sy'n agor ar gyfer Cysill ar y we yn dechrau â rhywbeth fel "copïwch neu ludwch" - lle mae angen "neu gludwch"  wrth gwrs🙂)
+Diolch yn fawr!
+Diolch, wnai gofyn rhywun i cywiro'r gwall :)
+O ran y botwm 'Dysgu', ni fydd hyn yn gweithio nes bo chi'n ychwanegu/creu geiriadur personol
+Ydych chi'n gwybod sut i wneud hynny?
+Diolch
+Rhaid mod i wedi creu neu wedi ychwanegu geiriadur personol o'r blaen, ond na dwi ddim yn gwybod sut i wneud erbyn hyn.
+Popeth yn iawn!
+Ydy Cysill yn agored ar hyn o bryd?
+Os felly, dewiswch 'Golygu' o'r ddewislen, yna dewisiwch 'Geiriaduron Personol'
+Yna, dewisiwch 'Ychwanegu'
+Efallai bydd eich hen eiriadur yna o hyd - os felly, dewisiwch e ac yna dewisiwch 'Agor'.
+Ond os na, gyd sy'n rhaid gwneud yw teipio enw yn y blwch 'Enw'r Ffeil' ac yna dewis 'Agor'
+Diolch
+Doedd yr hen un ddim yno
+Dwi wedi creu un newydd
+Wedi rhoi cynnig ar gywiro ffeil, ond doedd y botwm 'dysgu' ddim yn gweithio
+Ailddechreues i Word, heb lwc
+Efallai fod angen ailddechrau'r cyfrifiadur?
+Dyna od, ie, rhowch gynnig arni (ailddechrau hynny yw) ac wedyn cawn ni weld.
+Gyda llaw, mae gan y ffeiliau geiriadur yr estyniad .dic - efallai bod eich hen eiriadur ar y cyfrifiadur yn rhywle, os ydych am chwilio amdani
+Gwych, diolch
+Fe dria i gael gafael ar yr hen eiriadur ac aildanio'r cwbl hefyd.
+Gwasanaeth gwych, gyda llaw
+Diolch yn fawr
+Diolch - caredig iawn
+Rhowch wybod os oes angen unrhywbeth arall :)
+Tydi hwn ddim yn gweithio ar macOS Catalina am ry reswm
+versiwn 10.15.7.
+Oes update ar gael plis?
+Bore da Lewis, flin gen i am yr oedi wrth ymateb
+Nid yw Cysgliad yn gweithio gyda MacOS
+Cafodd fersiwn o Cysgliad ar gyfer Mac OSX 10.4 ac is ei ddatblygu yn 2008 gyda chymorth grant oddi wrth Fwrdd yr Iaith
+Nid yw'r fersiwn hwn wedi'i ddiweddaru ers hynny ac nid yw'r feddalwedd yn cael ei chynnal bellach
+ Gallwch ddefnyddio Cysill Ar-lein ( https://www.cysgliad.com/cysill/arlein/?locale=cy) a’r Porth Termau (http://termau.cymru/) trwy'ch porwr, fodd bynnag
+Ymddiheurwn nad oes fersiwn mwy cyfredol ar gael ar gyfer MacOS
+Cofion Peter 
+Methu Lawrlwytho
+Methu lawrlwytho/diweddaru
+Da chi yn iawn ?
+Fedrwch chi ateb yr canylnol i fi
+Pa system ydy chi yn defnyddio ??
+Windows
+Laptop/Desktop/ ac pa ferswin o windows
+Desktop
+Os gen ti sgrinllun o'r gwall ?
+fedrwch chi esbonio lle ti yn cael trafferth
+Mae gen i drwydded Rhif 354646HG ers sawl blwyddyn
+Am rhyw reswm bore ma mae'r rhaglenni Cysill a Cysgair wedi diflannu
+Ok os da chi yn mynd i  https://www.cysgliad.com/cy/trwydded-am-ddim/ ac wedyn drio pwso ar yr bottom llawrlwytho bydd yr rhaglen Dewin yn cael eu llawrlwytho ac mae honna yn medru rhoi cysgliad yn ol ar du periant 
+Mae na canllawiau yma -  https://www.cysgliad.com/cy/cymorth/
+Fe wnaeth y 'dewin' ymaddangos wrth i mi geisio gwneud hynny  - ond dim mwy na hynny!
+os gen tio teams neu skype so dwi yn medru gweld du sgrin ??
+Na - ar y sgrin mae TRWYDDED AM DDIM ac yna botwm 'lawrlwytho' oddi tano ayb
+Ok drio hon i fi
+1)Agor yr Start menu
+2)Mynd at Programs and Features
+3)Profi os bod Cysgliad ac Cysgliad o fewn Microsoft office yn yr rhestr
+Os mae nhw ddim chwilio am yr rhaglen Dewin
+Ma Cysgliad a Dewin Cysgliad yna
+Ok so mae on edrych bod cysgliad ar yr periant ond mae shortcutes wedi mynd
+os modd i chi rhedeg yr dewin eto fel admin (i.e right click on dewin cysgliad run as administrator)
+Ai fersiwn 1.07 yw'r diweddara
+Ie
+Mae honna yn swndio i fi bod gen chi windows s-mode ar ydy honna yn cwyir
+Neu rhyw rhaglen antifirws ??
+Norton Antivirus
+S-mode ???
+Os gen ti unrhyw rhaglen ar yr perient sydd yn dangos du sgrin (e.g Facebook Messenger/What'sapp/Teams/Skype ) wedi bydd on haws i fi drwsio du problem
+WhatsApp
+Wedi chwilio eto  - Cysgliad.msi not found
+Ar Ok mae na modd i chi llawrlwytho yr ffeilau unigol or wefan
+so mynd yma  https://www.cysgliad.com/cy/rheoli-fy-nghyfrif/
+yno
+Rhoi du cyfereiad ebost i fewn fel username os da chi wedi anghofio yr password defnyddio yr cymorth cyfnair i cael un newydd
+ar ol i chi mewncofnofi mynd at yr tudalen yma  https://www.cysgliad.com/cy/llwytho-cysgliad-i-lawr/ ac mae na modd i cael yr MSI unigol ac wedyn da chi mond yn gorau rhedeg Cysgliad.msi ac Cysgliad o fewn office MSI ac bydd yr rhaglen yn ol
+Os da chi ddal yn cael traffereth rhoi du ebost yma ac wnai i gwahodd chi i cyfarfod teams
+Mi wnes i newid fy password yn gynharach - mi dria i llwytho cysgliad i lawr nawr
+Mae gen i cyfarfod am 2 awr rwan so os da chi ddal yn cael trafferth ebostio fi ar lol790628740865@outlook.com ac wnai i drefnu cyfarfod teams i chi ;)
+Diolch
+DDIM probs
+Ers i mi lawrlwytho Microsft Teams rai misoedd nol nid yw Cysill / Cysgair yn gweithio ar Word
+Rwy'n cael y neges ganlynol The macro can't be found or has been disabled because of your Macro Security Settings
+A fyddai'n bosib i chi gynnig datrysiad os gwelwch yn dda
+Prunhawn da
+Prynhawn da.
+Pa fersiwn o Windows a Word ydych chi'n eu defnyddio?
+Windows 10
+Methu gweld pa fersiwn o Word, ond un diweddar.
+Iawn, diolch.
+Y peth cyntaf i ni ei wneud yw edrych ar osodiadau/apiau'r cyfrifiadur
+Os allech chi agor 'gosodiadau' (settings) plis
+Wedi gwneud hyn.
+Diolch
+Oes yna opsiwn sy'n dweud Apiau neu Apps yna
+Os felly cliciwch arni
+Wedi gwneud.
+Gret, a yw yw Cysgliad a Cysgliad o fewn Microsoft Office i’w gweld yn y rhestr apiau?
+Ydy
+Mae Cysgliad yno.
+A beth am 'Cysgliad o fewn Microsoft Office'?
+Na
+Allai ddim ei weld.
+Iawn, allech chi cau popeth i lawr a mynd nol at y bwrdd gwaith plis?
+Sori, beth yw'r bwrdd gwaith
+Cau lawr y dudalen hon hefyd?
+Sori - y desktop
+Na mae'n iawn i gadw'r dudalen yma'n agored
+Diolch
+Wedi gwneud.
+Diolch
+Ar y bwrdd gwaith dylai fod yna eicon am ddewin Cysgliad
+Hwn ddim gen i 
+Eiconau Cysill a Cysgair 3.0
+Mae'r Dewin ar y Settings felly alla i ddefnyddio hwn?
+Ie - gwych
+Er dwi ddim yn siwr a oes modd ei agor o fan yna
+Os rwy'n gwasgu "Modify" mae bloc yn ymddangos sy'n dweud "Bydd y Dewin Install Shields yn gadael i chi addasu..." yna botwm "nesaf" a "canslo" ar y gwaelod.
+Iawn, wnawn ni gadael hynny am nawr felly.
+Wnawn ni ceisio llwytho'r Dewin (ac ati) o'r wefan eto
+OK
+Diolch.
+Felly i wneud hynny ewch i  https://www.cysgliad.com/cy/trwydded-am-ddim/ yna dewis 'Lawrlwytho'
+Diolch
+Wedi gwneud hyn.
+Ar ol i'r pecyn lawrlwytho, cliciwch arno i'w agor
+Wedi cyrraedd "Croeso i'r Gosodwr ar gyfer Cysgliad" A ddylem bwyso "Nesaf"?
+Ie, os gwelwch yn dda
+Mae'n gosod Cysgliad nawr.
+Gret
+Yn fuan rwy'n gobeithio y gwelwch chi sgrin fel hyn:
+Ydy, hwn gen i nawr.
+Gwych - ydy hi'n dweud 'Canfuwyd Bar oOffer Cysgliad' arni?
+Ydy 1.0.4.0 (cyfredol).
+Da iawn
+Y peth nesa`f i'w wneud yw cau'r ffenestr yna ac yna ailddechrau'r cyfrifiadur
+Iawn
+Diolch.
+Croeso - byddaf yma wedi i'r cyfrifiadur ailddechrau
+Nol nawr.
+Dyna gyflym - gwych!
+Iawn, allech chi agor Word plis?
+Wedi gwneud.
+Ydy eiconau Cysgliad ar gael ar tab Review neu Adolygu?
+Na
+Mae eiconau Gwirio a Cysgeir yno fel o'r blaen.
+Iawn, allech chi teipio cwpl o eiriau yn Word yna dewis 'Gwirio' plis?
+Credu fod e'n gweithio nawr.
+Gwych - dyna ni
+Od bo Teams wedi peri i hyn ddigwydd!
+Diolch yn fawr
+Ie
+Dwy ddim yn siwr beth ddigwyddodd
+Gan bod rhaid cofrestru ar Office mae diwyg Word wedi newid
+Diolch yn fawr am eich amser beth bynnag.
+Croeso mawr - joia dy noswaith :)
+A thithau!
+Hia, dwi'n ystyried prynu gliniadur newydd, yn bennaf er mwyn gallu defnyddio meddalwedd Cysgliad (Mac sydd gen i ar hyn o bryd)
+A fydd Cysgliad yn gweithio ar Chromebook/trwy Office web-app
+Neu ydw i angen prynu laptop Windows a defnyddio Office desktop
+(Sori, dwi bach yn clueless pan mae'n dod i dechnoleg!)
+Diolch
+Prynhawn da Wyn
+Er mwyn defnyddio Cysgliad gyda Word mae'n rhaid bo Word wedi ei osod ar y cyfrifiadur
+Dwi ddim yn siwr os oes modd gwneud hynny ar Chromebook
+Ok diolch!
+Ydych chi'n aelod staff neu'n fyfyriwr ym Mhwllwli gyda llaw?
+Y ddau, ar hyn o bryd.
+Rwy'n credu bo 'na modd cael at Word/Cysgliad trwy logio i mewn i'ch cyfrif prifysgol..
+ dwi ddim yn siwr ond wnai edrych mewn iddo fe a chysylltu nol fory os hoffech chi?
+Rydw i wedi darganfod peth manylionchi yn medru defnyddio @schubert ac wedyn defnyddio student desktop ac mae na fersiwn o cysgliad sydd yn weithio ar windows yr sefydliad
+Mae'n rhaid llawrlwytho'r client yn cyntaf mae gwyboadaeth yma  https://www.bangor.ac.uk/itservices/PDFs/DesktopAnywhereInstructionsFull.pdf
+Ok diolch, na'i edrych mewn i'r peth
+Diolch
+Croeso - pob lwc!
+Bore da, oes modd i mi gael help gyda Cysill Arlein ogydd?
+Bore da - flin gen i am yr oedi yn ymateb
+Beth yw'r union broblem gyda Cysill ar lein os gwelwch yn dda?
+Prynhawn da,
+Rydw i wedi updatio fy MacBook Air i Catalina a dydy fy Nghysill na Chysgair yn gweithio rhagor.
+Prynhawn da
+Ydych chi'n mynd i ddiweddaru'r rhaglenni ar gyfer Macs?
+Hi Yn Anfoddus mae Cysgliad mond ar cael i windows ar y funed (Y fersiwn mac oedd o 2008 ac wedi ariannu gan Bwrdd y Iaith) Does na ddim cynllun ar y funed i datblygu ar gyfer Macs
+Dwi yn defnwyddiwr mac ac yn defnyddio Cysill ar lein ac yr porth termau
+Ah, dwi'n siomi'n fawr i glywed hynna
+ Dwi wedi bod yn defnyddio Cysill tan ddoe
+ Roedd yn wych!
+Cyntunno Gobeitho bydd rhywbeth yn ddod yn yr future ond mae Cysgliad ir mac yn hen ddim waith datblygu ers 2008 ac geiriaduron allan o dyddiad ac mae Catalina yn 64 bit
+Prynhawn da
+Rydw i newydd ddechrau astudio TAR Cynradd trwy gyfrwng y Gymraeg
+Roedd y Brifysgol yn son bod modd i ni dderbyn Cysill ers y cyfnod clo
+Tybed a yw hyn yn wir
+Hi Darren
+Sam sydd yma mae honna yn cwyir da chi yn medru cael Cysgliad am Ddim edrych yma -  https://www.cysgliad.com/cy/trwydded-am-ddim/
+Cofio bod cysgliad mond yn weithio ar Windows Machines ddim Mac
+Ydy cysgliad a Cysill yr un peth?
+Rydw i yn edrych i gael cysill.
+HI Stacy Mae cysill and Cysgeir yn rhan or pecyn cysgliad , mae cysgair yn geiradur electronig ac mae cysill yn wirio grammadeg ac spelling
+ah amazing
+Diolch yn fawr
+Nai lawrlwytho nawr te.
+Pob hwyl
+sud ydw i yn eu gael ar fy word outlook
+Hi Sion Sydd Yma da chi wedi edrych ar  https://www.cysgliad.com/cy/cymorth/#Sut%20mae%20datrys%20eiconau'n%20diflannu%20o%20Word
+mi wnai neud hyn rwan diolch
+Dwi wedi sylwi bod chi yn student yn Karen ydy yr periant un chi neu un yr prifysgol ??
+o'r safle yma rwyf wedi cael yr cyfarwyddion yw lawrlwytho o
+Os gen chi amser am sgrws cyflym ar teams ???
+yw hyn ar chat?
+rydw i fewn darlith ond yn gallu sgwrsio ar chat
+ar ok sorri da chi eisiau rhoi wybod pan da chi yn rhydd ac wnai i drefu cyfarfod teams - I drio drwsio yr problem mynd at yr tudalen cymorth ar wefan www.cysgliad.com/cy/cymorth ac mae na step by step guide sydd yn dangos sut i cael yr icons yn ol yn word ac outlook
+diolch
+rwyf wedi gallu lawrlwytho Cysgair ac mae'n gweithio ond yn methu rhoi Cysill yn "Word", allwch chi helpu o.g.y.dd.
+rwyf wedi gallu lawerlwytho Cysgair yn iawn ond yn methu rhoi Cysill yn "Word", allwch chi helpu o.g.y.dd.
+oes rhywun yna?
+Bore da, flin gen i am yr oedi.
+Bydd eicon Cysgliad a Cysgeir yn ymddangos yn nhab Adolygu/Review yn Word fel arfer
+Rwy'n cymryd nad ydyn nhw yna?
+Bore da!
+Wedi problem gododd ddoe, dwi wedi cael cyngor i  lawrlwytho Cysgliad o'r newydd
+Dwi wedi ceisio gwneud, ond mae'n gwrthod agor - a oes rhaid imi ddileu'r hen fersiwn sgen i ar fy nghyfrifiadur yn gyntaf?
+Bore da Max
+Ydych chi wedi lawrlwytho'r dewin o fan hyn https://www.cysgliad.com/cy/trwydded-am-ddim/
+Do
+Yfe'r Dewin sy'n gwrthod agor felly?
+Na, wedi pasio heibio hynny -
+A iawn, felly mae eiconau pecyn Cysgliad ar y Bwrdd Gwaith nawr, ydyn nhw?
+Cannot start the application - contact the application vendor...
+Wedi trîo teirgwaith
+Digon teg
+Mae hyn yn tueddu i ddigwydd naill ai pan fo rhaglen gwrth firws wedi rhwystro'r Dewin rhag weithio, neu pan fo'r cyfrifiadur mewn Safe Mode (neu s-mode o bosib)
+Digon teg
+Os mai s-mode yw'r broblem, ceir gyfarwyddiadau fan hyn i'w datrus https://support.microsoft.com/en-gb/help/4020089/windows-10-in-s-mode-faq#:~:text=Windows%2010%20in%20S%20mode%20is%20a%20version%20of%20Windows,10%20in%20S%20mode%20page
+Cliciwch ar y ddolen 'How do I get out of S Mode'
+howch gynnig ar y cyfarwyddiadau yna ailddechreuwch y cyfrifiadur.
+Dylai hyn gwneud y tro
+Ond, rydyn ni yma nes pump felly dewch nol os nad yw e'n gweithio.
+Diolch
+Fe ddeilliodd y broblem fel hyn:
+wrth roi dogfen Word trwy Cysill neithiwr, fe rewodd tua'r diwedd, gan ddileu oddeutu 190 o eiriau o'r ddogfen
+Fe wnes i Search This PC am y fersiynau cynharach..
+ond wedi i'r opsiynau ddod i'r golwg, gan gynnwys shortcuts ayyb, doedd dim modd imi agor yr un ohonyn nhw
+Dyna od - pa fersiwn o Word ydych chi'n ei defnyddio?
+Sori ond lle wneith o ddweud hynny wrtha i?
+Mae cyfarwyddiadau ar gael fan hyn https://support.microsoft.com/en-us/help/4028492/office-what-version-of-office-am-i-using
+2010
+Gwych, diolch
+Microsoft 365
+Efallai bo 'na modd cael y ddogfen (neu'r geiriau yn ol felly, trwy ddilyn y cyfarwyddiadau yn fan hyn https://smallbusiness.chron.com/restore-previous-versions-word-file-54121.html
+Mae'r ffwythiant yna wedi achub fy nghroen sawl tro!
+Diolch - roi i dro arni.
+Pob lwc
+Fel dwedais i rydyn ni yma nes 5 os oes angen mwy o help
+Pnawn da!
+Bore da Donna, Diolch am gysylltu eto, ie, mae eiconau Cysill a Cysgeir yn gallu diflannu o bryd i'w gilydd, ac yn waeth na hynny, does dim patrwm amlwg i'r broblem, hyd y gwelaf i
+Y newyddion da yw bod y broblem yn weddol hawdd ei datrys, ac mae cyfarwyddiadau i wneud hynny ar gael yn y fan hyn https://www.cysgliad.com/cy/cymorth/#Sut%20mae%20datrys%20eiconau'n%20diflannu%20o%20Word
+Cofion Jesica 
+A ydwyf yn medru llawrlwytho Cysill heb golli yr un saesneg, a hefyd sut mae gwneud.
+Prynhawn da - oes fersiwn o Cysill wedi ei llwytho ar eich cyfrifiadur yn barod?
+Nac oes.
+Iawn, mae modd cael at y rhaglen fan hyn https://www.cysgliad.com/cy/trwydded-am-ddim/
+Diolch.
+Croeso - rydyn ni yma nes 5 os oes angen mwy o gymorth
+Helo
+A fydd cysgliad a cysill ar gael ar apple macs yn fan
+Diolch :)
+Hi Bethan - Does na ddim plan ar y funud i cyhoeddi Cysgliad i'r Mac
+Prynhawn da George
+Dwi yn defnyddiwr Mac hefyd ac dwi yn defnyddio Cysill ar lein
+Mae'n flin gen i ond does dim byd ar y gweill ae hyn o bryd
+Oh ok
+Dwi heb gael llwyddiant ar lein
+Oes gennych chi link fedrai ddefnyddio plis?
+ https://www.cysgliad.com/cysill/arlein/
+Mae on weithio ar Safari,chrome,firefox ;) Os da chi yn cael 403 forbidden drio cleario du cache
+Oes 
+Gallwch hefyd ddefnyddio Cysill Ar-lein ( https://www.cysgliad.com/cysill/arlein/?locale=cy) a’r Porth Termau (http://termau.cymru/).
+Pan dwu'n pwyso 'cywiro' mae hwn yn dod fyny'403 ForbiddenGallwch defnyddio'r API yma gyda'r URL cofrestredig yn unig'
+Dyle fi trio trwy chrome?
+Ah iawn, mae modd datrus hyn trwy naill ai defnyddio porwr arall, trwy clirio eich cache neu trwy agor 'private window'
+Ond ie, dyle defnyddio chrome yn lle Safari wneud y tro
+Ok
+Nai ddefnyddio chrome am nad ydwi'n deall y mac yn wych eto er mwyn newid cache ayyb!
+Diolch :)
+Croeso - gad wybod os oes angen mwy o help :)
+Helo, tybed a oes modd lawrlwytho Cysill ar liniadur Macbook?
+Hi Andy - Yn anfoddus mae cysgliad ddim yn weithio ar mac - mae na modd i chi defnyddio Cysill ar lein -  https://www.cysgliad.com/cysill/arlein/
+Diolch am eich ateb
+Rwy'n sylwi nad oes modd gwirio unrhyw ddogfennau cyfrinachol ar y fersiwn ar lein?
+Yn anfoddus does na ddim wedi sylwi bod chi yn student yn yr prifysgol da chi yn medru defnyddio @Schubert ac wedyn defnyddio student desktop ac mae na fersiwn o cysgliad sydd yn weithio ar windows yr prifysgol
+Diolch
+Ydi hyn yn gweithio ar gyfer darlithwyr hefyd?
+Ydy ond mae nhw yn defnyddio yr staff desktop ar @Schubert
+Ti jyst angen yr dogfen yn du G:/drive
+Newydd geisio cysylltu gyda Asa ond yn debryn y nesges hon:
+Hi James - Ti yn gorau llawrlwytho yr client yn cyntaf mae gwyboadaeth yma  https://www.bangor.ac.uk/itservices/PDFs/DesktopAnywhereInstructionsFull.pdf
+Cystyllu hefo Luke os da chi yn cael trafferth hefo yr desktopanywhere service
+Iawn, diolch yn farw.
+Ddim problems  pob hwyl dwi yn defnyddio mac hefyd ac dwi yn drio cael yr datblwygwr i creu fersiwn mac ond ddim hwyl as yet
+Bore da, Rwy'n defnyddio iMac ar gyfer fy ngwaith ac hyd yn hyn wedi derbyn  gwasanaeth Cysill yn bennaf ar hen OS oedd gennyf
+Bellach wedi newid i Mac OS Catalina nid yw Cysill yn gweithio
+Oes gennych unrhyw gyngor i mi
+Gyda diolch ymlaen llaw
+Bore da.
+Mae'n flin gen i, ond dyw'r newyddion ddim yn dda o ran Mac.
+Nid yw Cysgliad yn gweithio gyda MacOS
+Cafodd fersiwn o Cysgliad ar gyfer Mac OSX 10.4 ac is ei ddatblygu yn 2008 gyda chymorth grant oddi wrth Fwrdd yr Iaith
+Nid yw'r fersiwn hwn wedi'i ddiweddaru ers hynny ac nid yw'r feddalwedd yn cael ei chynnal bellach
+Mae modd cael mynediad i'r ffeiliau yma https://www.cysgliad.com/mac/
+Gallwch hefyd ddefnyddio Cysill Ar-lein ( https://www.cysgliad.com/cysill/arlein/?locale=cy) a’r Porth Termau (http://termau.cymru/)
+Ymddiheurwn nad oes fersiwn mwy cyfredol ar gael ar gyfer MacOS.
+Diolch am eich sylw caredig
+Oes unrhyw obaith y byddwch yn gweithredu ar Mac's yn y dyfodol?
+Does dim byd ar y gweill ar hyn o bryd, mae'n flin gen i
+Mae wir yn dibynnu ar rhywun yn ein ariannu
+Ond eto chi byth yn gwybod
+Cawn fyw mewn gobaith
+Diolch am y wybodaeth a cadwch yn ddiogel.
+Diolch, a chithau hefyd
+Rwyf yn ceisio lawrlwytho Cysgliad gyda thrwydded am ddim
+Pan fyddaf yn clicio ar install rwy'n cael neges "Cannot start application
+Prynhawn da.
+Ydych chi'n ceisio llwytho'r ffeil o fan hyn https://www.cysgliad.com/cy/dewin-cysgliad/
+Nac ydw
+Iawn, popeth yn iawn
+Dim ond eisiau sicrhau bod y ffeil yn dod o'n wefan ni.
+Wnai ceisio llwytho'r peth fan hyn er mwyn sicrhau fod popeth yn iawn gyda'r gweinydd
+Dim yn hir
+Mae'n gweithio o fan hyn.
+Ar sgrin eich cyfrifiadur, ydy e'n dweud 'Safe Mode' yn y corneli?
+Neu S-Mode o bosib
+Ddim ar y sgrin hwn, ond dwi'n meddwl fy mod wedi gweld S-mode wrth osod y cyfrifiadur i fyny.
+Mae S-Mode yn atal unrhyw rhaglen sydd heb ei wirio gan Microsoft rhag osod ar gyfrifiadur
+O bosib dyma yw'r broblem.
+Sut dwi'n goresgyn y broblem?
+Mae yna gyfarwyddiadau yn fan hyn https://support.microsoft.com/en-gb/help/4020089/windows-10-in-s-mode-faq#:~:text=Windows%2010%20in%20S%20mode%20is%20a%20version%20of%20Windows,10%20in%20S%20mode%20page
+Cliciwch ar y ddolen 'How do I get out of S Mode
+Rhowch gynnig ar y cyfarwyddiadau yna ailddechreuwch y cyfrifiadur.
+Dylai hyn gwneud y tro
+Ond, rydyn ni yma nes pump felly dewch nol os nad yw e'n gweithio.
+Diolch
+Mi wna'i trio hyn.
+Croeso
+Pob hwyl gyda fe.
+Mae arna'i ofn bod yr un peth yn dal i ddigwydd.
+Yr un un neges eto yfe?
+Ie
+Iawn
+Mae'n bosib mae rhaglen gwrth firws sy'n achosi'r broblem felly
+Mae rhaglenni o'r fath yn gallu gor-ymateb ac anfon darnau pwysig o'r Dewin i cwarantin
+Oedd yna unrhyw neges o'ch rhaglen gwrth-firws wedi codi yn ystod y broses o osod y Dewin/Cysgliad?
+Nac oedd
+Dwi newydd brynu'r cyfrifiadur a heb osod unrhyw raglen gwrth-firws eto.
+Digon teg.
+Rwy'n credu bod y broblem yma yn mynd y tu hwnt i'r hyn 'dan ni'n gallu trwsio trwy'r rhyngwyneb sgwrsiol
+Mae modd gofyn i'r uwch dechnegydd i sgwrsio gyda chi trwy Teams neu Skype i'ch helpu os hoffech chi
+A fyddech ar gael bore yfory rhywbryd i wneud hynny?
+Mae Cysill ar-lein ar gael i chi nes hynny wrth gwrs -  https://www.cysgliad.com/cysill/arlein/
+A ddweud y gwir mae Stuart, yr uwch dechnegydd ar gael nawr
+Hoffech sgwrs MS Teams neu Skype gyda fe?
+Hoffwn, neu alwad ffón (01554 989898) os bydd hynny yn haws iddo.
+Galwad ar y ffordd
+Pob hwyl
+Neu efallai ail afael yn y Gymraeg
+Bore da Fred
+Sut allai helpu?
+Dwi ddim yn gallu cael Cysill i weithio yn Word
+Fe brynais y rhaglen fisoedd yn ôl a dwi erioed wedi gallu ei gael i weithio
+Fe lawrlwythais y fersiwn am ddim, ond roedd yn gwybod fod gen i'r rhaglen yn barod felly wnaeth hynny ddim helpu chwaith.
+Helo Colin, sori am yr oedi
+Dylai eiconau Cysgliad ymddangos yn nhab Adolygu/Review, rwy'n cymryd nad ydyn nhw yna?
+Os na, dylai'r cyfarwyddiadau fan hyn eich helpu https://www.cysgliad.com/cy/cymorth/#Sut%20mae%20datrys%20eiconau'n%20diflannu%20o%20Word
+rydw i'n mynd i anfon y sgwrs uchod i'ch cyfeiriad e-bost rhag ofn bo chi ddim yn eu gweld nhw
+Rhowch wybod os nad ydynt yn gweithio
+Helo Peter, sori am yr oedi
+ Dylai eiconau Cysgliad ymddangos yn nhab Adolygu/Review, rwy'n cymryd nad ydyn nhw yna
+ Os na, dylai'r cyfarwyddiadau fan hyn eich helpu https://www.cysgliad.com/cy/cymorth/#Sut%20mae%20datrys%20eiconau'n%20diflannu%20o%20Word.
+Na, dydyn nhw ddim yno
+Af i ymchwilio i’r ddolen
+Diolch
+Wedi llwyddo i gael yr eicon yn Word ond dydy o’n dal ddim yn gweithio- dyma’r neges ar y sgrin
+A yw'n addas ar gyfer Ipad.
+Hi Mari , Yn anfoddus mae Cysgliad ddim yn weithio ar iPAD da chi yn medru defnyddio Cysill ar lein Pob hwyl
+Dwi wedi lawrlwytho cygliad a mae yn ymddangos yn y settings o dan apiau a nodweddion ond dydy e ddim yn ymddangos o fewn options word o dan active na inactive applications???
+Bore dda Pete - Da chi wedi drio yr canllawiau yn yr tudalen yma -  https://www.cysgliad.com/cy/cymorth/#Sut%20mae%20datrys%20eiconau'n%20diflannu%20o%20Word
+Dwi yn meddwl bossib bod o o dan Disabled Items yn word
+Do, dyna ble dwi wedi cael y cyfarwyddiadau.
+Nai edrych o dan disabled items nawr
+Na dydy e ddim o dan disbaled items chwaith
+Os mae o yna - enablio fo ac wedyn dylai fo mynd i inactive items wedyn clickio ar Manage Com Add In's ac rhoi tick wrth yml cysgliad
+Ok os gen ti skype neu teams ac wedyn dwi yn medru gweld du sgrin ??
+teams gen i
+Wych Ydy cyferiad ebost chi Olwen9816831@gmail.com
+ie
+Wnai i anfon Teams invite rwan mae gen i tan 1pm cyn mynd i cyfarfod arall ydy rwan yn iawn
+ydy gret diolch
+Wedi anfon invite am 12.30 mewn 3 munud ond modd i chi ymuno rwan
+Gret nai neud nawr diolch
+prynhawn da
+allai gael help plis
+Prynhawn da Olly
+Karl  yn siarad
+Sut allai helpu?
+yn lawrlwytho cysgliad ar mac
+cael problem
+Flin gen i Cadi ond dyw e ddim yn gweithio ar y mac
+Mae Cysill ar lein a'r Porth Termau ar gael ond dim Cysgliad fel y cyfryw
+oni meddwl bod e gweithio ar apple?
+oes modd i Lywodraeth Cymru sortio hyn
+wedi clywed ar radio cymru chithe fel prifysgol bangor dweud bod e ar gael?
+Cafodd fersiwn o Cysgliad ar gyfer Mac OSX 10.4 ac is ei ddatblygu yn 2008 gyda chymorth grant oddi wrth Fwrdd yr Iaith
+Nid yw'r fersiwn hwn wedi'i ddiweddaru ers hynny ac nid yw'r feddalwedd yn cael ei chynnal bellach
+Mae modd cael mynediad i'r ffeiliau yma https://www.cysgliad.com/mac/.
+Dw i ddim yn credu bo fe'n gweithio'n dda ar mac mwy diweddar ond croeso i chi roi cynnig arno
+dyna drueni, diolch am dy help Roger  - os gallet fynegi fy rhwystrediagaeth wrth y pwerau nad yw ar gael ar Mac?
+Ie yn sicr
+Gobeithio gawn ni arian gan rywun i ddiweddaru'r rhaglen ar mac ond does dim byd ar y gweill ar hyn o bryd
+Croesi bysedd amdani sori
+Mae fersiwn o Cysgeir ar gael ar ffonau symudol gyda llaw, os yw hynny o gymorth
+ok diolch, hwyl fawr
+Croeso
+Hwyl am y tro
+ydy cysgliad yn cynwys rhyw fath o transalate
+Bore da Larry.
+Bore da
+Na dydi o ddim
+Na, dyw e ddim
+Mae modd chwilio am eiriau Saesneg unigol yn Cysgeir a gweld y cyfieithiadau
+Iawn diolch nau trio hwyna
+sut ydych yn cael cysgeir lan
+Dylai fod yna eicon sy'n edrych fel cylch coch ar y bwrdd gwaith
+ble mae'r bwrdd gwaith
+Y prif sgrin, hynny yw y desktop
+iawn diolch yn fawr iawn sortied
+Gwych, croeso
+Oes 'na unrhywbeth arall heddiw?
+na goes
+ond eto diolch yn fawr iawn
+Croeso, joia dy ddiwrnod :)
+a thi
+Oes yna modd gwybod faint yw pris Cysgliad am un peiriant am dwy flynedd os gwelwch yn dda
+Bore da Terry, Paul  yma
+bore da
+Bore dda Mic os modd i chi ebostio Cysgliad@bangor.ac.uk mae trwydded sefyldalod yn cael eu gwnued  o yna
+iawn, wna fi hwna
+diolch!
+Ddim problem o gwbl os ti yn rhoi at sylw Val Pritchard ;)
+diolch :)
+wna fi
+Helo,
+Helo, llwyddais lawrlwytho Cysgliad ar fy nghyfrifiadur (Windows 8 yn rhedeg MSOffice 2010)
+Hoffwn wybod a oes modd cael Cysgliad i ymddangos/ gweithio yn MSExcel a MSPowerPoint fel sydd eisoes yn digwydd yn MSWord
+Hefyd, a yw Cysgliad am ddim ar gael ar gyfer ffonau Android os gwelwch yn dda?
+Bore da Ifan, Flin gen i ond ar hyn o bryd does dim bar offer yn MS Excel a PowerPoint yn bodoli
+Mae Cysgliad ar gael ar peirianau Windows yn unig
+O ran Android mae Cysgeir ar gael ar ffurf ap, ond dim Cysill
+Mae'r Ap Geiriaduron ar gael fan hyn:  https://play.google.com/store/apps/details?id=com.cysgliad.android.apGeiriaduron&amp;gl=GB
+Gobeithio fod hynny o ryw gymorth
+Gadewch wybod os oes gennych gwestiwn arall
+Cofion Heulwen 
+Prynhawn da
+ Wrth fynd ati i lawrlwytho Cysgliad, derbyniaf neges 'This file can be harmful to your computer'
+ A yw'r rhaglen yn ddiogel?
+Prynhawn da.
+Ydy, mae rhaglen Cysgliad yn ddiogel
+Diolch yn fawr
+ Rwyf wedi'i lawrlwytho nawr.
+Gwych
+Gadewch wybod os oes angen unrhywbeth arall arnoch chi
+Helo
+Bore da
+A yw'n bosib lawrlwytho cysgliad ar gyfrifiadur mac?
+Bore dda yn anfoddus na
+Beth am chromebook?
+neu ipad neu apple phone?
+Sori, ond na yw'r ateb
+Nid yw Cysgliad yn gweithio gyda MacOS
+Cafodd fersiwn o Cysgliad ar gyfer Mac OSX 10.4 ac is ei ddatblygu yn 2008 gyda chymorth grant oddi wrth Fwrdd yr Iaith
+Nid yw'r fersiwn hwn wedi'i ddiweddaru ers hynny ac nid yw'r feddalwedd yn cael ei chynnal bellach
+Mae modd cael mynediad i'r ffeiliau yma https://www.cysgliad.com/mac/
+Gallwch hefyd ddefnyddio Cysill Ar-lein ( https://www.cysgliad.com/cysill/arlein/?locale=cy) a’r Porth Termau (http://termau.cymru/)
+Ymddiheurwn nad oes fersiwn mwy cyfredol ar gael ar gyfer MacOS.
+Iawn, diolch yn fawr
+Mae'r feddalwedd yn gweithio ar Windows yn unig sori
+Iawn
+Diolch am eich help!
+Croeso
+Mae Cysgeir ar gael ar ffonau ac ati https://play.google.com/store/apps/details?id=com.cysgliad.android.apGeiriaduron
+Nad yw cysill ar-lein yn gweithio amdanaf i ar yr hyn o bryd
+Ydy hyn yn broblem â fy nghyfrifiadur neu oes yna problem â chi?
+Bore da, Mae'n flin gen i eich bod wedi cael anawsterau wrth ddefnyddio Cysill ar-lein
+Mae'n gweithio fan hyn
+Ydych chi'n cael neges gwall wrth geisio defnyddio Cysill ar-lein
+Gan amlaf mae clirio cache eich porwr yn datrys problemau gyda Cysill ar-lein
+Cofion Emrys 
+Helo
+Rwyf eisiau llawrlwytho cysgliad i gyfrifiadur personol, ond methu ffeindio lle i chwilio
+Rwyf wedi dilyn cyfarwyddiadau a gefais ganddoch ar ebost ond mae'n addas ar gyfer sefydliad o 10 neu fwy
+Helo Chester, Maddeua i ni am fod yn hwyr yn ymateb - ar ben y gwyl banc, rydyn ni wrthi'n ceisio diweddaru'r wefan i'w baratoi er mwyn darparu Cysgliad gyda thrwydded am ddim yn y dyfodol agos
+Ai ceisio cael copi am ddim oeddet ti, yntau a oes gen ti eisoes drwydded i'r feddalwedd
+Cofion Catelyn
+Helo!Na doeddwn i ddim yn chwilio am drwydded am ddim, roeddwn yn fodlon talu 
+ At ddefnydd personol adref roeddwn yn chwilio amdano
+Mae'n flin gen i Branden, do'n i ddim wedi bwriadu awgrymu eich bod chi'n ceisio bachu 'freebie'
+Rydyn ni eisoes wedi datgan y byddwn ni'n rhyddhau Cysgliad am ddim ar gyfer unigolion, ysgolion a sefydliadau bach cyn bo hir fel rhan o gynnig arbennig gan Lywodraeth Cymru
+Dydi'r rhaglen osod newydd ddim cweit yn barod eto, ond dydyn ni ddim chwaith yn awyddus i werthu copi gyda bod fersiwn am ddim ar y gorwel
+A fyddech chi'n hapus felly i dderbyn copi prawf cynnar am ddim ymhen ychydig ddiwrnodau
+Cofion Louise
+Pnawn Da Jeremy, Sori doedd dim bwriad dod drosodd yn flin yn yr ebost🙈🙈Buaswn wrth fy modd derbyn copi prawf cynnar, diolch yn fawr
+Mi ydw i yn un am fachu freebies hefyd😂😂🤪
+Llawer o ddiolch 
+Gwych
+Fe anfonwn ni fanylion pan bydd fersiwn brawf yn barod gan y datblygwyr
+Cofion Nathanael
+Helo eto Ivor, Mae fersiwn brofi gennym i chi bellach
+I'w llwytho i lawr a'i gosod, ewch i https://www.cysgliad.com/cy/de..
+Yno, cliciwch ar y botwm Rhedeg gwyrdd (ond anwybyddwch y sôn am gyfeiriad e-bost gan na fydd angen darparu un)
+Rhowch wybod i ni sut hwyl gewch chi gyda'i osod, ac os oes unrhywbeth yn ddryslyd neu'n aneglur
+Diolch
+Criw Cysgliad
+Oes syniad gyda chi pryd bydd cysill nol yn gweithio?
+cytuno
+DIolch am gysylltu Gruffudd - mae'n gweithio eto erbyn hyn.
+tydi'r cysill ar lein ddim yn gweithio
+Hi Jerry - Da ni yn ymwybodol or problem ac yn drio eu drwsio
+Diolch am gysylltu, Freyja
+Mae'n gweithio o'n hochr ni
+Fedrwh chi anfon llun o'ch sgrin?
+gret diolch
+Mae gen i drwydded cysgliad
+ Rydyn ni newydd gael PC newydd, alla i ddim ei lawrlwytho.
+Pnawn da Gabrielle, fedrwch chi ddefnyddio  https://www.cysgliad.com/cy/rheoli-fy-nghyfrif/ ?
+A ymhle ydw i'n clicio?
+Ar y dudalen honno, dylech fod yn gweld blyvhau ar gyfer rhoi eich enw a'ch cyfeiriad.
+Rhowch y rheiny ac yna clicio ar ewngofnodi
+*Mewngofnodi
+Os nad ydych chi'n cofio eich cyfrinair, cliciwch ar Cymorth Cyfrinair
+Dydw i ddim yn gweld 'Mewngofnodi'
+Mae 'diweddariad' ar y gwaelod ond does dim byd yn digwydd pan ydw i'n clicio ar hyn
+Ydych chi ar y dudalen  https://www.cysgliad.com/cy/rheoli-fy-nghyfrif/ ?
+Ydw, a dw i wedi llenwi fy manylion
+Welwch chi fotwm gwyrdd fel hyn
+Na welaf
+ Mae 'diweddariad' yn y botwm gwyrdd
+Mae'n ddrwg gen i Anwen,  bydd yn rhaid i mi drafod hyn gyda'r datblygwr meddalwedd er mwyn dod o hyd i ddatrysiad ar eich cyfer.
+Ydych chi'n hapus i ni gysylltu â chi ar 02966 213243 pan fyddwn wedi dod o hyd i ateb?
+Ydw
+Diolch
+Iawn
+Mae'n flin iawn gen i am y drafferth
+Fe geisiwn ateb yn fuan.
+Peidiwch a phoeni, edrych ymlaen at glywed oddi wrthych
+Diolch Tobias
+Pob hwyl i chi
+Hwyl
+Helo
+Pa bryd byddwn ni yn gallu cael fersiwn o Cysill am ddim i'r ysgol rydw i yn gweithio ynddi?
+Helo Laura, Y gobaith yw ei ryddhau wythnos nesaf, ond mae'n rhaid i ni orffen ailwampio'r rhaglen osod yn iawn yn gyntaf
+Cofion Criw Cysgliad
+Rwyf yn trio defynddio cysill o adref
+Pam dydi Cysill ddim yn gweithio?
+Hi Tom - Jenny Yma os modd i chi dweud beth yn union ydy yr problem - da chi wedi gosod yr meddalwell yn iawn ???
+Cofio bod Cysgliad mond yn weithio ar Windows PC's ac oes da chi yn defnyddwyr Mac y peth gorau i defnyddio ydy Cysill ar Lein ( https://www.cysgliad.com/cysill/arlein/)
+Prynais trwydded blynyddoedd yn ôl ond methu mynd mewn I' rhaglen nawr.
+Hi Mair ydy chi yn iawn ?
+Gad i fi chwilio yn yr system am chi pa cod post oedd chi wedi defbyddio
+Hi Tammy - Mae gen chi drwydded ac dwi wedi anfon manyillion at chi i cael i mewn i system os da chi yn mynd i www.cysgliad.com/cy/dewin ac clickio ar Rhedeg hanner fford i llawr y tudalen bydd on lwytho yr Dewin i Periant chi - Cadarnhau du ebost ac byddwch y cael ebost hefo dolen i llawrlwytho yr meddalwedd
+Cofio bod Cysgliad mond yn weithio ar Windows PC ac ddim ar Mac
+ A diolch eto.
+ A fydd raid i mi wnedu hyn bob tro?
+ Allwch chi fy helpu plis?
+ Ar ôl ychwanegu'r tecst i mewn daw neges i fyny sy'n dweud
+ Cyn i fi anfon yr e-bost, ga i ofyn beth fydd y dyddiad ar yr anfoneb.
+ Diolch am eich help
+ Dwi di trio ail-lwytho cysgliad bore ma hefyd
+ Dyw e ddim yn gweithio ar Macs newydd yn anffodus
+ Er mwyn adnabod patrwm hynny yw.
+ Felly dad-osodais Cysgliad 1.00 bore 'ma a lawrlwytho'r Dewin.
+ Felly, diolch yn fawr am fod mor barod i helpu pnawn ddoe.
+ Mae Cysgliad yn weithio ar Windows PC yn Unig
+ Mae na mwy o wybodaeth yma am Macs (Cysgliad.com )
+ Mae o wedi ei osod yn iawn ac mae'r tabs ar Office 365 yn gweithio'n iawn.
+ Mae popeth yn IK rwan.
+ Mae'r pwrcas yn perthyn i'r flwyddyn ariannol 2020/21 felly mae'n bwysig bod y dyddiad ar yr anfoneb ym mis Mawrth eleni.
+ Mae'r rhaglen wedi gorffen yr 'install' gyda neges yn dweud ei fod wedi ei osod yn llwyddiannus.
+ Mae'r rhaglen yn agor yn iawn ond does ddim golwg ohono ar Word 365 Review.
+ Ond Yma Na yn anfoddus does na ddim fersiwn Mac ar y funud.
+ Roeddwn eisiau gwneud hynny o ran cwrteisi i ddiolch i chi.
+ Ro'n i'n meddwl bod chi'n mynd i anfon e-bost ata i.
+ Siaradais i a chi ddoe.
+ Wi'n moyn prynu copi o Gysgliad ar gyfer ein sefydliad.
+ Wrth wneud hynny,  caewyd ein 'chat' yn ddamweiniol, ac ei bod hi'n amser te erbyn hynny wnes i ddim ail-gysylltu o herwydd ni fuasai'n deg i chi.
+ Ydw i yn gallu copio testun i mewn a wneith o ei gywiro (os oes angen)?
+ Yn ystod  ein 'chat' mi ddaru chi ofyn imi agor y Dewin.
+(er mwyn gwirio'r testun)
+(I siarad gydag asiant Cymraeg, cliciwch ar 'Cymraeg' ar frig y dudalen ac yna clicio Cymorth Cysgliad ar waelod y sgrin)
+*am eich cyfrifiadur personol
+David  sy'n siarad o Bwrw Coelbren.
+Ifor ac wedyn bydd ebyst yn mynd at cyferiad ebost chi i llawrlwytho cysgliad
+Rupert oedd yr IT manager 8 mlynedd nol - mae e wedi gadael ers 6 mlynedd!!
+hedfan65832168@yahoo.com ydy fy nghyfeiriad ebost.
+Heidi yma.
+trwsiotrosedd@hotmail.co.uk yw cyfeiriad yr e-bost, gyda llaw.
+2 eilliad
+2 eilliad drio hon - https://troubleshooter.xyz/wiki/fix-cant-maximize-programs-from-taskbar/ mae on know issue ac os da chi ddal yn cael trafferth os gennech chi 5 mins i cael cyfarfod teams anfon du ebost os mai
+A allech chi agor y Dewin eto felly plis.
+A 'Canfuwyd Cysill 3.0.7.0 a Cysgeir 1.0.10.0 (cyfredol)
+A ddweud y gwir, dwi ddim yn siwr, sori.
+A dyna'r unig rhai?
+A gwych, falch bo popeth yn gweityhio erbyn hyn
+A iawn, dyna biti.
+A ydych chi'n defnyddio 2 sgrin (neu'n gwneud hynny fel arfer?)
+A yw'n gweithio ar Mac?
+A, iawn.
+Ac i plant ysgolion yr Termiadur Addysg - http://www.termiaduraddysg.org/?lang=en
+Ac yr rhif trwydded
+Ah reit- diolch yn fawr i chi.,
+Ah, digon teg
+Ah, digon teg.
+Ah, dwi'n gweld.
+ahhh oce diolch!
+Ai 403 FOrbidden: Server Error yw'r neges.
+Ai cyfrifiadur newydd sbon yw hyn?
+Ai drw hwn rwan a gadael i ti wybod os wyf wedi cael llwyddiant
+Ai peiriant gwaith yw hi gyda llaw?
+Ai Windows sydd ar y laptop?
+Allech chi clicio ar yr eicon Dewin ar y bwrdd gwaith plis?
+angen lawrlwytho cysgliad adref
+Ar hyn o bryd  mae trwydded am ddim i'w chael ar gyfer unigolion,  cwmniau sy'n cyflogi dan 10 o bobol ac ysgolion
+Ar hyn o bryd gall unigolion, ysgolion, a chwmnïau bach sy’n cyflogi 10 neu lai o bobl lwytho meddalwedd Cysgliad yn rhad ac am ddim ar eu cyfrifiadur Windows
+Bechod mawr ond diolch am y wybodaeth.
+Beth sy'n digwydd os ydych chi'n agor 'Dewin Cysgliad' eto?
+Beth sy'n gywir: "dair cymhwyster", neu, "dair gymhwyster"?
+Beth ydy cyferiad ebost chi ???
+Beth yn union syn digwydd wrth wasgu 'Gosod Bar Offer LibreOffice'?
+Beth yw'r cyfeiriad gorau at hynny plis?
+Bore da
+Bore da
+Bore da
+Bore da
+Bore da - diolch am gysylltu nol!
+Bore da - mae'n flin gen i ond na yw'r ateb ar hyn o bryd.
+Bore da !
+Bore da Nathan, Blodeuwedd yma.
+Bore da, dwi'n cael trafferth gyda cysill, er bod yr icons yn dangos a dwi'n pwyso arno i wirio sillafu dogfen word neu outlook - dwi'n methu gweld y sgrîn cysill - er mod i bron yn siŵr ei fod yn trio gwneud rhywbeth - allwch chi roi cyngor?
+Bore da, nacydi yn anffodus.
+Bore da.
+Bore da.
+Bore da.
+bwrdd gwaith.
+Bydd on gofyn i chi Cadarnhau du cyferiad ebost defnyddio ebost gwaith e.e.
+Byddaf yn ateb yr ebost rwan ydy o wedi gweithio i chi ??
+Byddwn i wedi disgwyl gweld neges sy'n dweud 'Canfuwyd Bar Offer Cysgliad yn y Dewin erbyn hyn hefyd.
+Byddwn i'n gobeithio gweld hi'n gweithio erbyn prynhawn yfory,  Y peth gorau i'w wneud yw mynd nol i'r wefan pob hyn a hyn i weld os yw hi'n gweithio.
+Byddwn i'n gwerthfawrogi derbyn e-bost os gwelwch yn dda oherwydd hoffwn i gael cofnod o'n gohebiaeth.
+cael y licence
+Cewch chi ddefnyddio Cysill ar lein ac ati trwy eich porwr wrth gwrs
+chromebook
+chwilio air cymraeg am raised bed mewn gardd
+Cofion Rhisiart
+Cofion, Keith
+Croeseo
+Croeso
+Croeso
+Croeso
+Croeso
+Croeso
+Croeso
+Croeso - pob hwyl gyda'r traethawd
+Croeso - pob lwc gyda hi.
+Croeso - sori bo fi methu helpu pellach
+Croeso .
+Croeso :)
+croeso :)
+Croeso :)
+Croeso mawr :)
+Croeso mawr :) Diolch am y cyfeiriad e-bost
+Croeso mawr.
+Croeso.
+Croeso.
+Croeso.
+Croeso.
+Croseo ac os da chi angen mwy ebostio fi ar cytunoefocrafanc@hotmail.co.uk
+cymraeg
+Cymraeg
+cysill a chysgair.
+Cysill ar lein -  https://www.cysgliad.com/cysill/arlein/ -defnyddio chrome ddim safari
+cysill Mac hynny yw.
+Cysylltais á chi tua 5:00 neithiwr o herwydd bod gennyf broblem efo cael Cysgliad i weithio efo Office 365.
+Da chi angen unrhyw cymorth arall ??
+Da chi angen unrhyw cymorth arall ???
+Da chi yn cael trafferth ??.
+Da chi yn medru cael i fewn drwy yr we heb gorau llawrlytho yr client i windows
+Da chi yn rhydd i cael galwad teams ???
+Da ni rwan angen i'r tim cyfan cael y software ar ei PCs (12 person).
+Dau: Cysgliad, a Dewin Cysgliad.
+Ddim gan person go Iawn Mae yr chatbot yma mond am yr pecyn cysgliad
+Ddim problem ;)
+Ddim problem o Gwbl Cyferiad ebost fi ydy logerythm@ghotmail.co.uk os da chi angen unrhyw cymorth Tech ;)
+Ddim problem os da chi yn ebostio canolfanbedwyr@bangor.ac.uk bydd yr rheolwr Swyddfa Sharon yn medru helpu - Cofio bod Cysgliad mond yn weithio ar Windows Machines (Ddim Mac, Ddim Chromebook)
+Ddim problemmau rhoi wybod os angen mwy o cymorth ;)
+Ddim problems ond plis anfon adborth i cysgliad@bangor.ac.uk y mwyaf pobl sydd yn gofyn am fersiwn Mac neu iOS y gorau ac wedyn gobeithio bydd yr Llwydroaeth yn tunny sylw ac yn airannu ni i creu fersiwn ;)
+Ddim yn  hir
+Deall yn iawn a diolch am ymateb nol.
+Diddorol, dwi'n credu mai'r  broblem Admin sydd wrth wraidd hyn, ond gawn ni edrych yn gloi bach ar Word rhag ofn
+Digon teg - croeso.
+Digon teg.
+Digon teg.
+Dim ar ffurf spreadsheet fel y cyfryw
+Dim ond gofyn oeddwn i achos bo fersiwn o Cysgliad ar gael am ddim ar PCs
+Dim problem.
+Dim problem.
+diolch
+diolch
+diolch
+diolch
+Diolch
+diolch
+Diolch
+Diolch
+Diolch am alw heibio :)
+Diolch am awgrymu hwwna.
+Diolch am eich cymorth.
+Diolch am eich gwaith!
+diolch am eich help
+diolch am eich help
+Diolch am eich help!
+diolch am y cyfeiriad :)
+diolch mae'n gweithio nawr ar ol clirio'r browsing history
+Diolch os da chi yn mynd yma - https://www.cysgliad.com/cy/dewin-cysgliad/ ac wedyn clickio ar Rhedeg (y bottwn hanner fford i llawr y sgrin ac wedyn rhedeg yr rhaglen
+Diolch yn fawr
+diolch yn fawr
+Diolch yn fawr - Sara
+Diolch yn fawr :)
+diolch yn fawr am eich cymorth!
+Diolch yn fawr am eich help.
+Diolch yn fawr iawn Mae e yma!
+Diolch yn fawr iawn, sut y bydda i’n gwybod pan fydd yn gweithio eto?
+Diolch yn fawr, ti’n garedig iawn - Jane
+Diolch!
+diolch!
+Diolch, felly mae'r Dewin wedi canfod LibreOffice ar eich cyfrifiadur.
+Diolch, sori ron i methu helpu mwy.
+Diolch.
+Diolch.
+Diolch.
+dw i angen llwytho cysgliad ar chrome books
+Dw i wedi ail gychwyn y cyfrifiadur ond does dal ddim toolbar ar y Libre office.
+Dw i wedi pwyso "Gosod bar ar LibreOffice" yn y dewin.
+Dw i'n Eddy - wedi cael trwydded 8 mlynedd nol am £1000 - oes upodates neu beth ddylwn i wneud nawr
+Dwi 'di dod ar draws hyn gyda Word o'r blaen, ond nid LibreOffice
+Dwi ddim yn creud, ond rhowch gynnig arall ar agor y raglen nawr a cawn weld
+Dwi ddim yn siwr pryd bydd hi nol ar lein, mae'n flin gen i.
+dwi di gorfod gwneud eto.
+Dwi newydd drio dilyn y cyfarwyddiadau ar y dudalen gymorth ond wedi methu - sori.
+dwi wdi trio y syniada yna dim byd
+Dwi yn cyntuno ond mae neb yn airannu ni i datblygu fersiwn Mac na iOS ond mae yr Llwyddroewth wedi cyntuno i airannu ferisiwn am ddim i windows
+Dwi yn defnyddio Swiftkey ar ios i wirio negassoun testun
+Dwi yn defnywddiwr Mac ac dwi yn defnyddio Cysill ar lein ac yr Porth Termau i helpu hefo y Cymraeg ydy chi eisiau dolen i Cysill ar lein ??
+Dwi yn meddwl bod yr Welsh Goverment yn cynnig gwsanaeth prawfddarllun 2 eilliad wnai i drio cael yr dolen
+Dwi'n cymryd nid PC sydd gennych?
+Dwi'n gweithio i Jîns James
+Dwi'n gweithio i Ceir Connah ac wedi cael gliniadur ganddyn nhw lle mae cysgliad wedi'i lwytho arno'n barod ond fedra i ddim ei gael ei weithio (mae gen i cysgliad ar fy ngliniadur fy hun sy'n gweithio'n iawn)
+Dwi'n gweld.
+Dwi'n iawn diolch am ofyn
+Dwi'n iawn, rwan, diolch.
+Dydyn ni ddim yn cynnig e-bostio pobl trwy'r rhyngwyneb yma fel arfer, ond gan eich bod wedi cael problemau gyda'r system wnai ceisio cael rhywun i'ch e-bostio.
+Dydy'r fersiwn arlein ddim yn gweithio gyda fy mac i.
+Dyle bod ganddyn nhw systemau yn eu lle o ran helpu chi
+Dyma ni (maddeuwch y Saesneg): Click on the program icon which can’t be maximized to give it the focus then again press Alt and Spacebar together.
+Dyma'r cyfeiriad we: https://www.cysgliad.com/cysill/arlein/?locale=cy
+Dyma'r ddolen:
+Dyn ni yma nes 17:00 os oes angen mwy o help
+Dyna fe, ie.
+Dyna hyfryd - diolch.
+dyna o le ges i'r datrusiad
+Dyna od - a allech chi agor y Dewin eto, ac yna copio sgrinlin ohono i'r ffenestr sgwrsio plis?
+Dyna od, sut wnaethoch chi gosod Cysgliad.
+Dyna'r unig beth dwi gallu gwneud ar hyn o bryd yn anffodus.
+Edrych ar https://businesswales.gov.wales/heloblod/helo-blod
+Efallai bo fe'n werth i chi ddarllen trwy'r erthygl yma: https://techcult.com/wiki/fix-cant-maximize-programs-from-taskbar/
+Efallai bydd hynny o help?
+Ella nad diwedd pnawn Gwener ydy'r amser gorau i sortio hyn.
+Er nad ydw i'n gwybod pryd y ddaw'r peth nol ar lein, dwi'n hapus i edrych pob hyn a hyn ac anfon e-bost atoch pan ddaw nol
+Es i i waelod y tudalen a fe wnes i ddod o hyd i linc ar gyfer llwytho cysgair ar y mac yn ogystal a linc i ddefnyddio arlein?
+Faint bydde trwydded i Trobwynt i tua 14 o weithwyr plis
+faint mae'n gostio I lawrlwytho cysill?
+Fedra i ddim gweld eicon dewin ar y bwrdd gwaith, mae'n ddrwg gen i.
+Fel arfer mae modd datrys problemau gyda'r fersiwn ar-lein  trwy naill ai defnyddio porwr arall neu clirio'r cache.
+Fel arfer mae yna ddwy ffordd o drwsio hyn.
+Fel defnyddiwr Mac, am rhyw rheswm, mae'n amhosib i fi ddefnyiddio Cysill ar lein/ Pob tro dw i'n ceisio, dw i'n cael yr error message canlynol: 403 Forbidden: This API key can only be used with the registered URL
+Fel unigolyn, fodd bynnag, gyd mae'n rhaid gwneud yw llwytho'r  ap o fan hyn: https://www.cysgliad.com/cy/trwydded-am-ddim/
+Fello o agor Word, oes yna botwm cysill i'w weld yn y tab adolygu/Review?
+Felly fel unigolyn cewch chi defnyddio fe.
+Flin gen i, ond na yw'r ateb ar hyn o bryd
+forbidden: gallwch ddefnyddio API yma gyda'r URL cofrestredig yn unig
+Fydd o mewn ffeil?
+Gadewch wybod os bydd unrhywbeth arall o'i le
+Gadewch wybod os hoffech unrhywbeth arall :)
+Gai ofyn am gyfeiriad e-bost er mwyn e-bostio chi os ydyn ni'n darganfod patrw (a felly datrysiad i'r broblem) plis?
+Geiradur Bangor - http://geiriadur.bangor.ac.uk
+Geirdaur yr academi - https://geiriaduracademi.org/telerau-defnydd/
+geiriadur Bangor ar lein ond falle bod y lawrlwyddiad yn well?
+Gnawf I geisio nesaf ymlaen.
+GPC - https://geiriadur.ac.uk/gpc/gpc.html
+gret - diolch yn fawr iawn
+Gret - diolch.
+Gret diolch eto!
+Gret, diolch am roi gwybod, mi af i'n ol atyn nhw i fynnu help!
+gwych
+Gwych - am ryw reswm nes i colli chi!
+Gwych - sawl cyfeiriad at  Cysgliad sydd yn y restr yna?
+Gwych, mi ddylai hynny trwsio'r broblem, ond wnai aros yma rhag ofn :)
+Gwych, wedi copïo’r dolennau, llawer o ddiolch
+Gwych.
+Gwych.
+Gyda llaw, mae'n well gennym os yw cwsmeriaid iaith Gymraeg yn defnyddio'r rhyngwyneb GYmraeg: https://www.cysgliad.com/cy/ achos ein bod ni'n ceisio creu corpws o sgwrsiau Cymraeg
+Gyda llaw, roeddwn i wedi gwglo chi ddoe i weld os oedd cyfeiriad e-bost ar lein yn rhywle er mwyn cysylltu a chi, ond heb gael lwc
+Gyda llaw, ydych chi'n defnyddio PC neu Mac?
+Gyda thrwydded sefydliadol y peth gorau i'w wneud yw sgwrsio gyda phobl TG y sefydliad.
+Haia, dwi wedi download'ior 'Dewin Cysgliad' ar fy nghyfrifiadur ond dydi o ddim dangos ar 'Word' - sut ma' 'neud hyn plis?
+Hefyd defnyddio Swiftkey am predictive text cymareg ar iOS
+Hefyd Mae cysgliad ddim yn weithio ar Chrome Books
+helo
+helo
+Helo
+helo
+Helo - a allech chi ailagor y Dewin os gwelwch yn dda?
+Helo - dan ni ddim yn delio  gyda  thrwyddedau  sefydliadol trwy'r rhyngwyneb sgwrsio yma, mae'n flin gen i
+helo - oes na fwriad o gwbl i greu Cysgliad ar gyfer y Mac eto.
+Helo eto
+Helo, Lauren?
+Helo, diolch am gysylltu.
+Helo, Rwyf wedi bod yn ceisio defnyddio cysill ers ddoe ond pan rwyf yn gwasgu cywiro mae neges yn dod lan y dweud 'Server error'.
+Helo, Sut wyt ti?
+helo, ydio bosib cael cysill ar laptop mac?
+Helo.
+Helo.
+Helo.
+Helo?
+Hi Martin sydd Yma da chi iawn - Mae’r chat yma ar cyfer cymorth Cysgliad os da chi yn chwilio am geiriau drio http://www.termau.cymru neu https://http://geiriadur.bangor.ac.uk/
+Hi Brian sydd yma oes gen ti rhif post ur ysgol i fi checkio yr license ???
+Hi Rob Sydd Yma sorri i torri adrwas Cysgliad Sypport ond mae on edrych bod yr cais isod yn Enterprise Installation felly bydd rhaid i person cystyllu hefo TG BCU achos does gen ni ddim admin rights ar yr perient i helpu
+Hi Poppy Yma Sut fedri i helpu
+Hi Beth ydy enw chi ???
+Hi Da chi yn mynd i dolen yma https://www.cysgliad.com/en/free-licence/
+Hi Mae na modd i chi defnyddio Cysgliad i gwiro yr silafu ac gramadeg, ond da ni ddim yn cynnig gwasenaeth prawfddarllen
+Hi na dydy o ddim on da chi yn medru defnyddio yr Ap Geirduron ;)
+Hi os da chi angen cymorth yn Cymraeg mae na modd i cael sgrws ar yr tudalen Cymraeg.
+Hi ya eto
+Hi, mae cyssillt yn agor am eiliad ac wedyn diflanu or screen.
+Hoffech chi'r dolenni at y geiriaduron a Cysill arlein?
+Hoffech rhoi cynnig ar hynny tra fy mod i ar lein?
+huya oes na fersiwn i Mac book ?
+Hwyl
+Hwyl am y tro
+Hwyl am y tro, a croeso :)
+Hwyl fawr.
+Hylo.
+Hylo?
+i ni
+Ia
+ia na fo - dwi'n credu cafodd trwydded ei brynu trwy'r cwmni.
+Ia plis
+iawn
+Iawn
+iawn - diolch i chi.
+Iawn , gawn ni cipolwg ar osodiadau'r cyfrifiadur, allech chi clicio ar y botwm windows yna dewis gosodiadau/settings plis?
+Iawn am Termau:
+Iawn diolch!
+Iawn diolch.
+Iawn ten , a allech chi agor  Gosodiadau (Settings) ar y cyfrifiadur, yna mynd i Aps/Apiau plis
+Iawn, a diolch.
+Iawn, byddwn i'n disgwyl gweld mwy na hynny.
+iawn, diolch
+Iawn, dyna biti.
+Iawn, felly dyw'r cyfrifiadur dim mewn 'S-Mode' (sy'n atal defnyddwyr rhag gosod meddalwedd sydd ddim ar gael trwy Microsoft Store ar y cyfrifiadur)
+Iawn, mae hyn yn digwydd o bryd i'w gilydd yn anffodus, ac rydyn ni'n credu mai'r broblem yw diffyg Admin Rights ddigonol
+Iawn, yna.
+Ie fi wedi updato'r laptop yn ddiweddar a nawr dyw e ddim yn gweithio.
+Ie yn union y neges hynny.
+Ie, fi sy 'ma.
+Ie, mae hynny'n un hen ofnadwy, dyw e heb ei ddiweddaru ers rhyw 2008 dwi'n credu
+Jyst yn chwillio am yr cofnod rwan
+ma gennai ddau sgîn ar fynd, ond fel arfer mae ffenest cysill yn popio fyny ar ye un sgin a dwi'n gweithio arno.
+mae cysill a cysgeir wedi ei lwytho yn barod ar y desktop
+Mae Cysill ar lein ar gael, a'r porth termau, ond dim pecyn meddalwedd mac
+Mae gen chi hen cyfrif Rhwydwaith ar yr system bydd angen i ebostio canolfanbedwyr@bangor.ac.uk i newid i’r trwydded newydd Dwi yn meddwl bod on rhad ac am ddim i ysgolion ar yr Funed achos mae yr WG wedi airiannu cysgliad Blwyddyn yma
+Mae gen i gyfrifiadur windows sydd yn rhedeg y fersiwn arlein yn iawn.
+mae hyn wedi gweithio.
+Mae hyn yn bechod mawr gan gysidro bod defnydd o’r Gymraeg yn hanfodol os am gyrraedd targed siaradwyr Cymreag.
+Mae lecsicon ar ffurf ffeil testun ar gael o fan hyn: https://github.com/techiaith/lecsicon-cymraeg-bangor
+Mae modd defnyddio Cysill ar lein ac ati trwy eich porwr wrth gwrs
+Mae modd defnyddio cysill ar lein trwy eich porwr wrth gwrs
+Mae na llwyth o adnoddau arlein da chi yn medru defnyddio hefo MAC da chi eisiau fi rheestr nhw ???
+Mae o ar agor ar gyfer holl ysgolion Cymru.
+Mae o i weld yn gwneud rhywbeth, ond does dim yn newid yn Libre ar ôl hynny.
+Mae o'n deud 'Canfuwyd Microsoft Office 2016 (64-bit)
+Mae o'n dweud "Chwilio am LibreOffice" ac i weld yn gorffen ei waith.
+mae person wnaeth cael y licence sefydliad wedi gadael
+Mae well gen i fy Mac na gyd.
+Mae y fersiwn yna ddal yna ond ddim yn weithio hefo yr Mac’s OS Newydd ac mae o ddim wedi cael eu ddiwerdau es 2008
+Mae yn y task bar ac yn task manger ond ddim ar y sgreen
+Mae yna 'user' arall ar y cyfrifiadur felly dwi ddim isio ail ddechra'r cyfrifiadur deud gwir rhagon ma gyno nhw waith ar ei hanner
+Mae yr Cyfrif yn Enw Nolan so bydd rhaid i’r ebost ddod gan fo ;)
+Mae'n bosib defnyddio Cysill ar-lein ar Mac
+Mae'n flin gen i ond does gen i'r un syniad, dwi ddim yn delio gyda'r ochr yna.
+Mae'n flin gen i ond na yw'r ateb
+Mae'n flin gen i, ond does dim ar y gweill ar hyn o bryd
+Mae'n flin gen i, ond dydyn ni ddim yn delio gyda trwyddedi sefydliadol trwy'r llinell gymorth, felly dwi ddim yn gwybod.
+Mae'n flin gen i, ond mae'n ymddangos bod yna broblem gyda Cysill ar lein ar hyn o bryd.
+Mae'n niwsans go iawn peidio gallu gwirio testunau sydd efo gwybodaeth sensitif/ personol ynddyn nhw yn ddidrafferth.
+Mae'n rili od bod y cyfrifiadur wedi caniatau ichi osod un elfen o'r rhaglen, ond nid y llall.
+Mae'n siwr gen i eich bod chi'n ymwybodol yn barod, ond mae fersiwn ar-lein o Cysill ar gael fan hyn: https://www.cysgliad.com/cysill/arlein/
+Mae'r cyfrifiadur yn atal chi rhag osod y feddalwedd am ryw reswm.
+Mae'r neges wall yna'n ymddangos lle nad oes hawliau admin gan ddefnyddiwr ar y cyfrifiadur (ymysg rhesymau eryll!)
+Meddyliais am y peth ymhellach neithiwr o herwydd nid oeddwn wedi defnyddio Dewin i ail-osod Cysgliad, ac o edrych ymhellach sylweddolais mai Cysgliad 1.00 oeddwn yn trio ei ail-osod a mae'n debyg nad yw hwnnw'n addas ar gyfer Office 365.
+methu llwytho Cysgliad ar microsoft word
+Mi ddylai eicon Dewin Cysgliad fod ar eich bwrdd gwaith
+Mi rydw i wedi gorfod cael cyfrifiadur newydd.
+Mi wna i, ond dw i wedi trio hynny eisoes.
+Mi wna'i, :grin:
+Mwynhewch eich diwrnod :)
+na dim diolch
+Na dim ots - mae 'na 'fix' am hyn, jest yn edrych amdano fe nawr :)
+na laptop gwaith
+Na, ar windows yn unig mae gen i ofn
+Na, dw i ddim yn meddwl.
+Na.
+nac ydy
+nac ydy
+nachdi - mae'r icon yn popio fyny yn y task bar ar waelod y sgrîn fel petae yn gweithio - ond dwi'n methu gweld y ffenest cysill.
+Nad yw.
+naddo
+Nage Laptop HP
+Nai drio dad-gysylltu un sgrîn i weld os ydio'n gwneud gwahaniaeth
+Neu'n ail, clirio eich cache.
+Nid ar Chromebokk yn anffodus
+Nid ar Mac cyfoes ta beth
+O bosib yr OS sy'n achosi hyn, neu  o bosib yr  system gwrth feirws - ond dyw e ddim yn syniad da troi'r rhaglen yna bant wrth gwrs!
+O ran gwaith, rydyn ni'n cynnig trwyddedau sefydliadol, efallai bo gan y cwmni trwydded o'r fath?
+Oce - fe wnaf i drio.
+Oedd na unrhyw negeseuon o'ch rhaglen gwrth-firws wedi ymddangos wrth redeg y Dewin am y tro cyntaf?
+Oeddech chi wedi derbyn fy neges olaf.
+oes
+oes modd cael cysill i weithio ar y mac?
+oes na fordd i mi lawrlwytho I word ?
+oes posib ffonio rhwyun i sgwrsio?
+Oes un online ohyd?
+oes yna obaith o gael Cysgliad ar y Mac eto os gwelwch yn dda.
+Oh reit, diolchhh
+ohh gwych dwi teimly y bydd, diolch yn fawr
+ok
+ok
+ok - mi wnai drio hyn rwan
+Ok diolch
+Ok diolch :)
+Ok diolch nai trio hyna wan
+ok diolch, mi wnai drio.
+O'n ond ro'n i'n camddeall.
+Ond
+Ond cewch ddefnyddio Cysill Arlein trwy eich porwr wrth gwrs
+Ond cofiwch ddarllen y rhybudd!
+Ond does dim 'canfuwyd bar offer Cysgliad'?
+Ond dydi o ddim yn broblem mawr rwan dwi'n gwybod be i wneud
+Ond falch bo popeth yn iawn erbyn hyn!
+Ond mae gen i ffordd o ddefnyddio cysill yn y bon.
+Ond roedwn i'n gallu ei ddefnyddio online nes ddoe.
+OND, mi gewch chi ddefnyddio Cysill ar lein (https://www.cysgliad.com/cysill/arlein/),  Geiriadur Bangor (http://geiriadur.bangor.ac.uk/) a'r porth termau (http://termau.cymru/) trwy eich porwr we
+Os angen i newid yr contact i hi ??.
+Os da chi eisiau anfon adborth at Cysgliad@bangor.ac.uk wnai i passio ymlaen at pobl strategol ond dwi wedi bod yn drio cael fersiwn mac ac iOS am hen dro
+Os dyma’r dolen - https://www.cysgliad.com/cysill/arlein/ mae on weithio ar Safari,Chrome ac Firefox ond possib bydd angen i chi clirio du browsing history
+Os felly  mae modd cael trwydded Cysgliad am ddim o fan hyn: https://www.cysgliad.com/cy/trwydded-am-ddim/
+Os felly rydym yn ymwybodol o'r broblem ac yn brysur ceisio ei thrwsio.
+Os gen ti yr cod post i'r adeilad
+Os gennech chi 2 monitor
+os mae Anthony wedi gadael bydd angen i ebostio cysgliad@bangor.ac.uk hefo yr person newydd bydd yn cyfreffiol am yr cyfrif
+Os mae gen chi Perient Windows mae na modd i chi llawrlwytho Cysgliad Yma https://www.cysgliad.com/cy/trwydded-am-ddim/ ond os da chi yn defnyddio mac mae gen ni gwsanaeth Cysill ar lein
+Os oes cyfrif sefydliadol ganddynt, yna bydd ganddyn nhw ffyrdd eraill o osod cysgliad a'r offer ac ati (hynny yw, yn wahanol i'r Dewin).
+Os ydyn nhw'n cael problemau yna bydd modd iddyn nhw gael help trwy e-bostio cysgliad@bangor.ac.uk
+Pa fersiwn o Windows sydd ar y cyfrifiadur plis?
+Pa rif dych chi'n son amdano.
+Pan dwi'n edrych ar y 'control panel' dim ond Cysgliad sydd i'w weld a dim 'Cysgliad o fewn....' .
+pan fi'n downloado yr un ar gyfer mac mae'n dweud bod angen fersiwn mwy diweddar ohono
+Pan fo bar offer Word yn gwneud hyn, rydyn ni'n ceisio casglu data er mwyn i ni darganfod pam yn union digwydda hyn.
+Pan fydda i'n edrych ar y dewisiadau add ins, dydy Cysgliad ddim yn ymddangos yn y bocs.
+Pnawn da
+Pnawn Da - Rwyf yn gweithio i Gwagle Tresiencyn,
+Pnawn da rydym yn awyddus i gael trwydded i staff Het yr Hipo gael defnyddio Cysill a Gysgair - faint mae o'n gostio plis
+Pnawn da, ma fy mab yn adeiladu rhagen syml ar gyfer yr ysgol - mae angen rhestr o eiriau cymraeg, os lawrlwythiad ar ffufr spreadsheet ar gael?
+Pnawn da, Ydi Cysgair ar gael ar y Mac?
+Pnawn da.
+Pob hwyl ar yr help mae yr gwsanaeth Helo blod yn eitha dda
+Popeth yn iawn.
+pryd fyddon barod, coz genai diss fod mewn erbyn dydd mercher ia, ac angan checkio
+Prynhawn da
+Prynhawn da
+Prynhawn da
+Prynhawn da
+Prynhawn da - mae'n flin gen i, ond na yw'r ateb
+Prynhawn da, mae'n flin gen i ond na yw'r ateb ar hyn o bryd.
+Prynhawn da.
+Prynhawn da.
+Rhestrwyd Cysill unwaith (nid dwywaith fel y crybwyllwyd ar eich gwefan) o dan 'Programs & Features' ond does dim golwg o'r rhaglen 'Cygliad o Fewn Microsoft Office' ychwaith.
+Rhoi wybod os da chi ddal yn cael trafferth fama neu ebostio cysgliad@bangor.ac.uk
+Rhowch gynnig ar y naill neu'r llall  a gadewch wybod os yw'n gweithio
+Roedd arfer bod fersiwn ar y we i fi ddefnyddio ond fi'n cymryd bod hwn wedi cael ei dynnu lawr yn ddiweddar
+Roedd o'n gweithio'n iawn ar yr hen un, ac yn hynod o ddefnyddiol i mi.
+Roeddwn i'n becso braidd o golli chi neithiwr
+run neges eto...
+Rwyf newydd ail-osod Cysil ar fy nghyfrifiadur 'desktop' ar ol gwneud 'clean re-install' o Win 19.
+rwyf wedi sgrifennu englen bach ar gyfer carrag fedd ydachi medru helpu i sicrhau ei fod hi wedi sillafu yn gywir ac yn gwneud synnwyr
+Rwyf yn deallt bod gennyf hawl i lawrlwytho hwn i fy nghyfrifiadur.
+rwyf yn trio neud gwaith prifysgol, ond tydi cysill ar lein ddim yn gweithio am rhyw rheswm
+Rwy'n ei ddyffnyddio gyda'r geiriau
+Rydan ni yn defnyddio Cysgliad ar nifer o PCs ac yn talu £40 y flwyddyn am hyn.
+Rydyn ni'n ymwybodol ohoni ac yn ceisio ei thrwsio
+Sef bod rhaid galw   (01248) 383293, neu e-bostio cysgliad@bangor.ac.uk i drefni hyn?
+Sef yr eicon yna ar eich bwrdd gwaith
+sori
+sori - desktop
+sori, newydd weld
+Sut dwi'n lawrlwytho fo ar gyfer fy'n nghyfrifiadur gwaith.
+Sut gai helpu heddiw?
+Sut mae lawrlwytho i'r PCs newydd.
+Syt dwi'n lawrlwythio Cysill?
+Ta  waeth, dwi'n gweld bo'r elsuen yn cyflogi dros 10 o bobol.
+Ti?
+Trw ddisgen neu trwy llwytho'r ffeil o fan hyn:  https://www.cysgliad.com/cy/trwydded-am-ddim/
+Unrhyw syniad Beth mae hynny'n ei olygu?
+Unrhyw syniadau plis.
+unrhyw synod lle ar lein bydda na rywin yn mediru helpu
+W - a hyn: https://github.com/techiaith/geiriau-mwyaf-aml
+Wedi anfon gwahoddiad ac yn yr cyfarfod rwan - dymar dolen i’r cyfarfod os da chi ddim yn cael yr ebost - halibalw3576431@outlook.co.uk
+wedi colli gwybodaeth licence
+Wedi cyfathrebu yn faenorol ynglyn a cysgair i iOS.
+Weithiau mae ailldechrau'r cyfrifiadur yn helpu, felly mae'n werth gwneud hynny os nad ydych chi wedi ers gosod y pecyn
+Wel, mae Cysgliad yn gweithio gyda Word, ond Word ar gyfer PCs yn unig, mae'n flin gen i
+Wel, yr un system sydd yna mewn gwirionedd, hynny yw mae Cysill yn defnyddio'r un rholau gramadegol
+well i mi gysylltu â help line y gyfundrefn?
+Werth gofyn nhw cyntaf felly!
+Windows 10
+wnaeth Lleucu
+Wnai ceisio cael at fanylion er mwyn i chi allu gysylltu a'r pobl cywir.
+wnai ebostio nhw nawr
+wrthi'n gwneud rwan, diolch!
+Y cyntaf, defnyddio porwr arall.
+Y peth gorau i chi ei wneud yw ebostio cysgliad@bangor.ac.uk neu, os yn well gyda chi,  ffonio (01248) 383293
+Y peth gorau i'w wneud felly yw naill ai e-bostio cysgliad@bangor.ac.uk neu, os yn well gyda chi, ffonio (01248) 383293 er mwyn trefnu popeth (dwi methu trefnu pethau o'r fath yma fan hyn, flin gen i)
+Y peth gorau i'w wneud yw cysylltu a'ch pobl TG felly.
+Y peth gorau i'w wneud yw galw'r rhif yna, dwi'n credu, gan bo ni'n rhedeg allan o amser.
+Ydi Cysgair ar gael ar gyfei Apple iOS?
+ydwi gallu cael o ar hwn?
+ydy chi angen help hefo unrhyw peth arall heddiw ??
+Ydy Cysgliad yn rhedeg ar Mac?
+Ydy cysill yn gweithio ar MAC?
+Ydy cysill/cysgeir yn gweithio ar y cyfrifiadur ar hyn o bryd (hynny yw trwy ddewis eicon o'r bwrdd gwaith?)
+ydy diolch
+Ydy hi'n bosib lawrlwytho Cysill ar MacBook Pro?
+Ydy hon yn gwnued sense
+Ydy, byddwn i ar goll hebddo.
+ydych chi wedi rhedeg Dewin Cysgliad?
+Ydyn, mae'r ddau yn gweithio.
+Ydy'r Dewin yn agored o hyd plis?
+Ydy'r system yn cynnig neges gwall?
+Yn anffodus cyfrifiadur gwaith yw'r laptop windows felly ni allai lawrlwytho'r rhaglen ar y peiriant yna chwaith.
+Yn anfoddus does ba ddin Cynllun i creu fersiwn iOS ar yr funed ac dwi yn defnddiwr Mac hefyd
+Yn anfoddus dydi o ddim da chi mond yn medru defnyddio Cysgliad ar perianniau windows yn unig - does na ddim cynnig ar yr funed o gwbl i iOS na MAC OSX
+Yn gywir, Llinos
+Yn y cyfamser mae'n bosib copio a glynnu testun i ap Cysill wrth gwrs
+Yn y cyfamser, o leia mae modd cael at yr apiau trwy'r eiconau ar y bwrdd gwaith
+Yn ymuno ??.
+Yna clicio ar apiau/apps
+Yna, ydy 'Cysgliad a Cysgliad o fewn Microsoft Office' i’w gweld yn y restr?
+yndw
+yr eicon yma:
+Yr ferswin sydd gen chi ydy hen fersiwn o 2008 oedd wedi ariannu gan Bwrdd y Iaith.
+Yr unig beth galla' i awgrymu ar hyn o bryd yw dadosod y feddalwedd (gan gynnwys y Dewin), ailddechrau'r cyfrifiadur a llwytho'r Dewin i lawr eto a dechrau gosod y feddalwedd o'r newydd
+Yr wyf wedi talu am Microsoft Office, ydi’n bosibl defnyddio cysgair ar fy Mac efo Office?
+Yr wyf yn defnyddio Ap geiriaduron ond angen gwirio dogfennau
+Yr wyf yn gweithio gydag ysgolion ledled Cymry.
+Ysgrifennaf yn Saesneg fel y gall fy adran TG ddeall yr ateb!
+Rydw i yn ddysgwr gyda'r Cyngor ac rwyf yn deall bod gennyf mynediad at cysgeir / cysill drwyddyn nhw? Sut rydw i yn cael mynediad os gwelwch yn dda?
+Helo!
+Bydd yn rhaid gofyn iddyn nhw sut yn union mae cael at y feddalwedd trwy eu porth nhw, OND efallai nad oes angen, gan ei fod hi'n bosib i unigolion cael at drwydded am ddim ta beth ar hyn o bryd
+ewch i https://www.cysgliad.com/cy/trwydded-am-ddim/
+ac yna cliciwch ar 'lawrlwytho', yna rhedeg y dewin
+prynhawn da - ydy Cysgliad yn gweithio ar Chromebook?
+Prynhawn da, yn anffodus, na yw'r ateb, ond rydyn ni'n gweithio ar ategolyn i weithio trwy Word ar-lein a hefyd Google docs.
+A hefyd mae Cysill ar-lein ar gael trwy eich porwr ar hyn o bryd (https://www.cysgliad.com/cysill/arlein/)
+Mae Cysill yn ymddangos yn Word ond wrth trio rhedeg e mae'n ymddangos am bach ar y taskbar ond i diflannu
+Bore da
+Mae hyn yn tueddi i ddigwydd pan fo defnyddiwr yn naill ai defnyddio 2 sgrin neu pan fo defnyddiwr yn defnyddio 2 sgrin yna'n datgysylltu'r ail
+Mae 'na ffordd eitha hawdd i drwsio hyn, fodd bynnag
+Wnai nôl y cyfarwyddiadau i chi nawr
+Diolch - mae 2 sgrin ganddo fe + weithiau mae'n cysylltu a'r 3ydd sgrin sef y bwrdd gwyn yn y dosbarth
+Ah, dwi'n gweld.
+Iawn, sori am yr oedi, des i o hyd i'r adnodd yma:
+Yn y pendraw, gweithiodd y fix olaf yn yr adnodd hynny, sef:
+Diolch af i lawr i weld e anwr
+nawr
+Gwych - mi ddylai hynny weithio, ond rho wybod os na :)
