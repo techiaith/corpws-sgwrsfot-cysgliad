@@ -6,10 +6,10 @@ Dyma Gorpws Sgwrsfot Cysgliad, sy'n gorpws o sgyrsiau Cymorth Cysgliad. Mae Cymo
 
 Dylid nodi nad oes elfen awtomataidd yn bod i'r sgwrsfot, hynny yw nid oes 'bot' sy'n ateb neu'n ymateb i gwestiynau’r defnyddwyr yn bodoli. Yn hytrach, y bwriad yw defnyddio'r corpws hwn yn y dyfodol i hyfforddi sgwrsfot awtomatig ar gyfer Cysgliad a fydd hefyd yn sail ar gyfer sgwrsfotiaid eraill ar gyfer cynnyrch arall yn y man.
 
-Casglwyd y data dros gyfnod o 29 mis, rhwng mis Mai 2020 a mis Hydref 2022.
+Yn wreiddiol, casglwyd y data dros gyfnod o 29 mis, rhwng mis Mai 2020 a mis Hydref 2022. Diweddarwyd y corpws ym mis Mehefin 2023, gan ychwanegu data a gasglwyd rhwng mis Hydref 2022 a mis Mehefin 2023 at y corpws.
 
 ## Ffurf a Chynnwys y Corpws
-Mae'r corpws ar ffurf testun plaen ac yn cynnwys 1902 o frawddegau, gyda phob brawddeg ar linell newydd. 
+Mae'r corpws ar ffurf testun plaen ac yn cynnwys 2326 o frawddegau, gyda phob brawddeg ar linell newydd. 
 
 ## Y Dyfodol
 Rydym yn bwriadu ychwanegu deunydd i'r corpws hwn yn rheolaidd wrth i'r nifer o bobl sy'n cysylltu trwy’r rhyngwyneb gynyddu. Fel y nodwyd uchod, pobl cig a gwaed sy'n ymateb i ymholiadau'r defnyddwyr trwy'r rhyngwyneb, ond rhagwelwn y bydd cynnwys y corpws hwn yn cael ei ddefnyddio i hyfforddi sgwrsfot awtomatig yn y dyfodol.
@@ -24,10 +24,10 @@ This is the Cysgliad Chatbot Corpus, which is a corpus of Cysgliad Support chats
 
 It should be noted that the chatbot has no automated elements, that is no 'bot' answers or responds to the users' questions. Rather, the intention is to use this corpus in the future to train an automatic chatbot for Cysgliad, which in turn will also be the basis for other chatbots for another product in the future.
 
-The data was collected over a period of 29 months, between May 2020 and October 2022.
+Originally, the data was collected over a period of 29 months, between May 2020 and October 2022. The corpus was then updated in June 2023, when data collected between October 2022 and June 2023 was added to the corpus.
 
 ## Form and Content of the Corpus
-The corpus is in plain text format and contains 1902 sentences, with each sentence on a new line.
+The corpus is in plain text format and contains 2326 sentences, with each sentence on a new line.
 ## The Future
 We plan to add material to this corpus regularly as the number of people connecting through the interface increases. As stated above, real people respond to the users' queries through the interface, but we anticipate that the content of this corpus will be used to train an automatic chatbot in the future.
 ## Acknowledgments
